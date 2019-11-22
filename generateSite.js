@@ -1,0 +1,1 @@
+require('./script.js')(require(`${__dirname}/_data/groups.json`, "utf8"), require(`${__dirname}/_data/events.json`, "utf8"), require(`${__dirname}/_data/attendees.json`, "utf8"));
