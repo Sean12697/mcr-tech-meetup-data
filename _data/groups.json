@@ -17,7 +17,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 27,
+    "members": 28,
     "member_pay_fee": false,
     "organizer": {
         "id": 269544203,
@@ -74,7 +74,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 157,
+    "members": 184,
     "member_pay_fee": false,
     "organizer": {
         "id": 36440942,
@@ -102,7 +102,7 @@
     "next_event": {
         "id": "266491198",
         "name": "The DevOps Exchange Manchester - Launch Event ",
-        "yes_rsvp_count": 72,
+        "yes_rsvp_count": 97,
         "time": 1575311400000,
         "utc_offset": 0
     },
@@ -152,7 +152,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 31,
+    "members": 30,
     "member_pay_fee": false,
     "organizer": {
         "id": 295826483,
@@ -177,13 +177,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "266463906",
-        "name": "Casual Beers & Marketing Chatter",
-        "yes_rsvp_count": 4,
-        "time": 1574881200000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -224,7 +217,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 509,
+    "members": 512,
     "member_pay_fee": false,
     "organizer": {
         "id": 224460603,
@@ -257,13 +250,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "261897189",
-        "name": "ODSC EUROPE 2019",
-        "yes_rsvp_count": 8,
-        "time": 1574150400000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -304,7 +290,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 138,
+    "members": 139,
     "member_pay_fee": false,
     "organizer": {
         "id": 216350681,
@@ -369,7 +355,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 95,
+    "members": 96,
     "member_pay_fee": false,
     "organizer": {
         "id": 190562219,
@@ -397,7 +383,7 @@
     "next_event": {
         "id": "266556154",
         "name": "AR Manchester #2",
-        "yes_rsvp_count": 3,
+        "yes_rsvp_count": 4,
         "time": 1579717800000,
         "utc_offset": 0
     },
@@ -636,7 +622,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 1003,
+    "members": 1010,
     "member_pay_fee": false,
     "organizer": {
         "id": 39070362,
@@ -669,13 +655,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "266287097",
-        "name": "Remote First - pilot amidst transformation chaos",
-        "yes_rsvp_count": 33,
-        "time": 1574793000000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 2,
         "name": "Career & Business",
@@ -716,7 +695,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 366,
+    "members": 370,
     "member_pay_fee": false,
     "organizer": {
         "id": 276414293,
@@ -1001,7 +980,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 814,
+    "members": 819,
     "member_pay_fee": false,
     "organizer": {
         "id": 202589202,
@@ -1029,7 +1008,7 @@
     "next_event": {
         "id": "266381133",
         "name": "Merry Chickmas: The 2019 RoundUp.",
-        "yes_rsvp_count": 34,
+        "yes_rsvp_count": 40,
         "time": 1576087200000,
         "utc_offset": 0
     },
@@ -1073,7 +1052,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 731,
+    "members": 738,
     "member_pay_fee": false,
     "who": "Members",
     "group_photo": {
@@ -1133,7 +1112,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 4805,
+    "members": 4814,
     "member_pay_fee": false,
     "organizer": {
         "id": 136152892,
@@ -1169,7 +1148,7 @@
     "next_event": {
         "id": "fvmpzpyzqbmb",
         "name": "CodeUp Manchester December Monthly Session",
-        "yes_rsvp_count": 43,
+        "yes_rsvp_count": 50,
         "time": 1575918000000,
         "utc_offset": 0
     },
@@ -1219,7 +1198,7 @@
     "visibility": "public",
     "lat": 53.47,
     "lon": -2.29,
-    "members": 906,
+    "members": 911,
     "member_pay_fee": false,
     "organizer": {
         "id": 136152892,
@@ -1253,9 +1232,9 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "dfqlspyzqbvb",
+        "id": "vxxllryzqbvb",
         "name": "CodeUp Salford Monthly Session ",
-        "yes_rsvp_count": 5,
+        "yes_rsvp_count": 8,
         "time": 1576522800000,
         "utc_offset": 0
     },
@@ -1305,7 +1284,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 147,
+    "members": 146,
     "member_pay_fee": false,
     "organizer": {
         "id": 61225322,
@@ -1362,7 +1341,7 @@
     "visibility": "public_limited",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 2737,
+    "members": 2754,
     "member_pay_fee": false,
     "organizer": {
         "id": 30436702,
@@ -1398,7 +1377,7 @@
     "next_event": {
         "id": "266051407",
         "name": "The Startup Journey 2: Overcoming Challenges",
-        "yes_rsvp_count": 56,
+        "yes_rsvp_count": 62,
         "time": 1574877600000,
         "utc_offset": 0
     },
@@ -1442,7 +1421,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 2325,
+    "members": 2333,
     "member_pay_fee": false,
     "organizer": {
         "id": 65452892,
@@ -1598,7 +1577,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 2107,
+    "members": 2105,
     "member_pay_fee": false,
     "organizer": {
         "id": 77652922,
@@ -1677,7 +1656,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.22,
-    "members": 2194,
+    "members": 2198,
     "member_pay_fee": false,
     "organizer": {
         "id": 91316152,
@@ -1705,7 +1684,7 @@
     "next_event": {
         "id": "kdpqgryzpbkc",
         "name": "Hackspace Manchester Open Evening",
-        "yes_rsvp_count": 1,
+        "yes_rsvp_count": 4,
         "time": 1574879400000,
         "utc_offset": 0
     },
@@ -1749,7 +1728,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1072,
+    "members": 1070,
     "member_pay_fee": false,
     "organizer": {
         "id": 91301462,
@@ -1814,7 +1793,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1439,
+    "members": 1437,
     "member_pay_fee": false,
     "organizer": {
         "id": 78536482,
@@ -1887,7 +1866,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1574,
+    "members": 1576,
     "member_pay_fee": false,
     "organizer": {
         "id": 69819242,
@@ -1944,7 +1923,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 1173,
+    "members": 1174,
     "member_pay_fee": false,
     "organizer": {
         "id": 121643322,
@@ -2017,7 +1996,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 904,
+    "members": 905,
     "member_pay_fee": false,
     "organizer": {
         "id": 57752332,
@@ -2095,7 +2074,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 2821,
+    "members": 2824,
     "member_pay_fee": false,
     "organizer": {
         "id": 13208357,
@@ -2174,7 +2153,7 @@
     "visibility": "public",
     "lat": 53.27,
     "lon": -2.15,
-    "members": 396,
+    "members": 397,
     "member_pay_fee": false,
     "organizer": {
         "id": 188768004,
@@ -2326,7 +2305,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 650,
+    "members": 649,
     "member_pay_fee": false,
     "who": "Data Geeks",
     "group_photo": {
@@ -2456,7 +2435,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 2935,
+    "members": 2940,
     "member_pay_fee": false,
     "organizer": {
         "id": 61163682,
@@ -2492,7 +2471,7 @@
     "next_event": {
         "id": "264166955",
         "name": "Monthly Morning Networking Event",
-        "yes_rsvp_count": 47,
+        "yes_rsvp_count": 53,
         "time": 1574929800000,
         "utc_offset": 0
     },
@@ -2536,7 +2515,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1826,
+    "members": 1827,
     "member_pay_fee": false,
     "organizer": {
         "id": 185963398,
@@ -2601,7 +2580,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 681,
+    "members": 682,
     "member_pay_fee": false,
     "organizer": {
         "id": 202395876,
@@ -2621,7 +2600,7 @@
     "next_event": {
         "id": "266489020",
         "name": "Grey Hats do the FlawCon CTF ",
-        "yes_rsvp_count": 37,
+        "yes_rsvp_count": 42,
         "time": 1574881200000,
         "utc_offset": 0
     },
@@ -2665,7 +2644,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 853,
+    "members": 851,
     "member_pay_fee": false,
     "organizer": {
         "id": 160853242,
@@ -2738,7 +2717,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 1078,
+    "members": 1080,
     "member_pay_fee": false,
     "organizer": {
         "id": 41730382,
@@ -2811,7 +2790,7 @@
     "visibility": "public_limited",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1794,
+    "members": 1807,
     "member_pay_fee": false,
     "who": "Power BI Enthusiasts",
     "key_photo": {
@@ -2824,7 +2803,7 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "vffkgryzpblc",
+        "id": "kjgllryzpblc",
         "name": "POWER BIER XMAS SPECIAL - AI capabilities in PBI / PBI with PowerApps ",
         "yes_rsvp_count": 117,
         "time": 1574962200000,
@@ -2870,7 +2849,7 @@
     "visibility": "public",
     "lat": 53.47,
     "lon": -2.24,
-    "members": 1001,
+    "members": 1000,
     "member_pay_fee": false,
     "organizer": {
         "id": 13915263,
@@ -2942,7 +2921,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 702,
+    "members": 701,
     "member_pay_fee": false,
     "organizer": {
         "id": 12931837,
@@ -3015,7 +2994,7 @@
     "visibility": "public",
     "lat": 53.49,
     "lon": -2.24,
-    "members": 1114,
+    "members": 1118,
     "member_pay_fee": false,
     "organizer": {
         "id": 11632967,
@@ -3051,7 +3030,7 @@
     "next_event": {
         "id": "szdgfqyzqbxb",
         "name": "MWUG Monthly Meetup",
-        "yes_rsvp_count": 11,
+        "yes_rsvp_count": 15,
         "time": 1576693800000,
         "utc_offset": 0
     },
@@ -3095,7 +3074,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1244,
+    "members": 1248,
     "member_pay_fee": false,
     "organizer": {
         "id": 14093409,
@@ -3168,7 +3147,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 1162,
+    "members": 1163,
     "member_pay_fee": false,
     "organizer": {
         "id": 32390822,
@@ -3204,7 +3183,7 @@
     "next_event": {
         "id": "266491856",
         "name": "McrFRED 77 | Phillip Whittaker",
-        "yes_rsvp_count": 9,
+        "yes_rsvp_count": 15,
         "time": 1574879400000,
         "utc_offset": 0
     },
@@ -3248,7 +3227,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 481,
+    "members": 480,
     "member_pay_fee": false,
     "organizer": {
         "id": 14287168,
@@ -3318,7 +3297,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 377,
+    "members": 378,
     "member_pay_fee": false,
     "organizer": {
         "id": 136017342,
@@ -3396,7 +3375,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 359,
+    "members": 360,
     "member_pay_fee": false,
     "organizer": {
         "id": 161986092,
@@ -3465,7 +3444,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1441,
+    "members": 1442,
     "member_pay_fee": false,
     "organizer": {
         "id": 61163682,
@@ -3538,7 +3517,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1553,
+    "members": 1557,
     "member_pay_fee": false,
     "organizer": {
         "id": 27038062,
@@ -3623,7 +3602,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 316,
+    "members": 317,
     "member_pay_fee": false,
     "organizer": {
         "id": 46144682,
@@ -3651,7 +3630,7 @@
     "next_event": {
         "id": "266487657",
         "name": "Scala Manchester - Delivering Media Streaming at Scale",
-        "yes_rsvp_count": 39,
+        "yes_rsvp_count": 46,
         "time": 1574964000000,
         "utc_offset": 0
     },
@@ -3774,7 +3753,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 402,
+    "members": 403,
     "member_pay_fee": false,
     "organizer": {
         "id": 197716051,
@@ -3847,7 +3826,7 @@
     "visibility": "public",
     "lat": 53.49,
     "lon": -2.24,
-    "members": 3369,
+    "members": 3386,
     "member_pay_fee": false,
     "organizer": {
         "id": 10763000,
@@ -3883,7 +3862,7 @@
     "next_event": {
         "id": "zpfmhryzpbkc",
         "name": "Funding your tech for good ",
-        "yes_rsvp_count": 152,
+        "yes_rsvp_count": 170,
         "time": 1574879400000,
         "utc_offset": 0
     },
@@ -3992,7 +3971,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 319,
+    "members": 318,
     "member_pay_fee": false,
     "organizer": {
         "id": 94954392,
@@ -4065,7 +4044,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 1756,
+    "members": 1758,
     "member_pay_fee": false,
     "organizer": {
         "id": 278266412,
@@ -4134,7 +4113,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 969,
+    "members": 977,
     "member_pay_fee": false,
     "who": "Members",
     "group_photo": {
@@ -4154,13 +4133,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "266078980",
-        "name": "UX Crunch Manchester: Future Technology and Design",
-        "yes_rsvp_count": 51,
-        "time": 1574791200000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -4201,7 +4173,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.23,
-    "members": 1534,
+    "members": 1535,
     "member_pay_fee": false,
     "organizer": {
         "id": 208212717,
@@ -4310,7 +4282,7 @@
     "next_event": {
         "id": "266616082",
         "name": "AWS UG North #34 - Werner's keynote from re:invent (+ Christmas social stuff!)",
-        "yes_rsvp_count": 30,
+        "yes_rsvp_count": 34,
         "time": 1575561600000,
         "utc_offset": 0
     },
@@ -4354,7 +4326,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 979,
+    "members": 988,
     "member_pay_fee": false,
     "organizer": {
         "id": 95530192,
@@ -4468,7 +4440,7 @@
     "visibility": "public",
     "lat": 53.47,
     "lon": -2.29,
-    "members": 1200,
+    "members": 1203,
     "member_pay_fee": false,
     "organizer": {
         "id": 118178642,
@@ -4533,7 +4505,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 472,
+    "members": 478,
     "member_pay_fee": false,
     "organizer": {
         "id": 56735662,
@@ -4567,10 +4539,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "cxnfcryznbkc",
-        "name": "Weekend Coffee for Startup People",
-        "yes_rsvp_count": 12,
-        "time": 1574595000000,
+        "id": "xrvglryzpbkc",
+        "name": "Online Global Startup Pitching Event",
+        "yes_rsvp_count": 7,
+        "time": 1574877600000,
         "utc_offset": 0
     },
     "category": {
@@ -4654,7 +4626,7 @@
     "next_event": {
         "id": "266429124",
         "name": "NWDUG December 2019",
-        "yes_rsvp_count": 6,
+        "yes_rsvp_count": 7,
         "time": 1576004400000,
         "utc_offset": 0
     },
@@ -4777,7 +4749,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 602,
+    "members": 609,
     "member_pay_fee": false,
     "organizer": {
         "id": 37948482,
@@ -4847,7 +4819,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.23,
-    "members": 727,
+    "members": 729,
     "member_pay_fee": false,
     "organizer": {
         "id": 237473208,
@@ -4904,7 +4876,7 @@
     "pro_network": {
         "name": "#BUIDL Network ",
         "urlname": "BUIDL",
-        "number_of_groups": 88,
+        "number_of_groups": 85,
         "network_url": "https://www.meetup.com/pro/BUIDL/"
     }
 }, {
@@ -4936,7 +4908,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1005,
+    "members": 1003,
     "member_pay_fee": false,
     "organizer": {
         "id": 236559462,
@@ -4961,6 +4933,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "266725658",
+        "name": "GCP User Group North West #8 - Christmas special and Google Next update",
+        "yes_rsvp_count": 26,
+        "time": 1575568800000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -4982,7 +4961,12 @@
         },
         "category_ids": [34]
     },
-    "is_pro_hidden": true
+    "pro_network": {
+        "name": "GDG",
+        "urlname": "gdg",
+        "number_of_groups": 960,
+        "network_url": "https://www.meetup.com/pro/gdg/"
+    }
 }, {
     "id": 19162628,
     "name": "Manchester Entrepreneurs Work & Social Life Balance",
@@ -5127,7 +5111,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 120,
+    "members": 119,
     "member_pay_fee": false,
     "organizer": {
         "id": 182540881,
@@ -5206,7 +5190,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 784,
+    "members": 785,
     "member_pay_fee": false,
     "organizer": {
         "id": 221179981,
@@ -5240,10 +5224,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "lvgklryzqbdb",
+        "id": "lvgklrybccbjb",
         "name": "NSManchester",
-        "yes_rsvp_count": 7,
-        "time": 1575309600000,
+        "yes_rsvp_count": 2,
+        "time": 1578333600000,
         "utc_offset": 0
     },
     "category": {
@@ -5286,7 +5270,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1038,
+    "members": 1043,
     "member_pay_fee": false,
     "organizer": {
         "id": 237417539,
@@ -5359,7 +5343,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 3948,
+    "members": 3956,
     "member_pay_fee": false,
     "who": "Experts",
     "group_photo": {
@@ -5382,7 +5366,7 @@
     "next_event": {
         "id": "266430669",
         "name": "ExpertTalks - Save The Date",
-        "yes_rsvp_count": 8,
+        "yes_rsvp_count": 11,
         "time": 1579629600000,
         "utc_offset": 0
     },
@@ -5426,7 +5410,7 @@
     "visibility": "public",
     "lat": 53.47,
     "lon": -2.23,
-    "members": 942,
+    "members": 943,
     "member_pay_fee": false,
     "organizer": {
         "id": 203204927,
@@ -5579,7 +5563,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.23,
-    "members": 829,
+    "members": 834,
     "member_pay_fee": false,
     "organizer": {
         "id": 110056732,
@@ -5614,7 +5598,7 @@
     "next_event": {
         "id": "cnlljryzqbgb",
         "name": "Playtest Games",
-        "yes_rsvp_count": 8,
+        "yes_rsvp_count": 9,
         "time": 1575484200000,
         "utc_offset": 0
     },
@@ -5658,7 +5642,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 598,
+    "members": 606,
     "member_pay_fee": false,
     "organizer": {
         "id": 223010722,
@@ -5686,7 +5670,7 @@
     "next_event": {
         "id": "266199897",
         "name": "Build a Content Managed Blog with Gridsome & Netlify",
-        "yes_rsvp_count": 18,
+        "yes_rsvp_count": 29,
         "time": 1574965800000,
         "utc_offset": 0
     },
@@ -5730,7 +5714,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 2029,
+    "members": 2041,
     "member_pay_fee": false,
     "who": "Members",
     "group_photo": {
@@ -5750,6 +5734,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "266753531",
+        "name": "2019 Retrospective and Christmas Celebration!",
+        "yes_rsvp_count": 22,
+        "time": 1576000800000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -5865,7 +5856,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 199,
+    "members": 200,
     "member_pay_fee": false,
     "organizer": {
         "id": 20110521,
@@ -5891,10 +5882,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "265085269",
-        "name": "#021 TBD",
-        "yes_rsvp_count": 2,
-        "time": 1574794800000,
+        "id": "265085275",
+        "name": "#022 TBD",
+        "yes_rsvp_count": 4,
+        "time": 1580238000000,
         "utc_offset": 0
     },
     "category": {
@@ -6009,7 +6000,7 @@
     "visibility": "public",
     "lat": 53.37,
     "lon": -2.59,
-    "members": 318,
+    "members": 317,
     "member_pay_fee": false,
     "organizer": {
         "id": 182685243,
@@ -6066,7 +6057,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 36,
+    "members": 37,
     "member_pay_fee": false,
     "organizer": {
         "id": 238520770,
@@ -6212,7 +6203,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 582,
+    "members": 581,
     "member_pay_fee": false,
     "organizer": {
         "id": 114766932,
@@ -6291,7 +6282,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.23,
-    "members": 534,
+    "members": 533,
     "member_pay_fee": false,
     "who": "Members",
     "group_photo": {
@@ -6357,7 +6348,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1519,
+    "members": 1533,
     "member_pay_fee": false,
     "organizer": {
         "id": 198467493,
@@ -6393,7 +6384,7 @@
     "next_event": {
         "id": "266405188",
         "name": "Mentorship circle",
-        "yes_rsvp_count": 35,
+        "yes_rsvp_count": 36,
         "time": 1575568800000,
         "utc_offset": 0
     },
@@ -6509,7 +6500,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 380,
+    "members": 379,
     "member_pay_fee": false,
     "organizer": {
         "id": 29712182,
@@ -6582,7 +6573,7 @@
     "visibility": "public",
     "lat": 53.47,
     "lon": -2.23,
-    "members": 418,
+    "members": 420,
     "member_pay_fee": false,
     "who": "Members",
     "group_photo": {
@@ -6633,7 +6624,7 @@
     "pro_network": {
         "name": "R-Ladies",
         "urlname": "rladies",
-        "number_of_groups": 169,
+        "number_of_groups": 173,
         "network_url": "https://www.meetup.com/pro/rladies/"
     }
 }, {
@@ -6655,7 +6646,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 534,
+    "members": 536,
     "member_pay_fee": false,
     "organizer": {
         "id": 210793267,
@@ -6691,7 +6682,7 @@
     "next_event": {
         "id": "tcljtqyzqbpb",
         "name": "Manchester Go meetup",
-        "yes_rsvp_count": 4,
+        "yes_rsvp_count": 5,
         "time": 1576089000000,
         "utc_offset": 0
     },
@@ -6741,7 +6732,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 2029,
+    "members": 2041,
     "member_pay_fee": false,
     "organizer": {
         "id": 4788073,
@@ -6774,6 +6765,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "266753531",
+        "name": "2019 Retrospective and Christmas Celebration!",
+        "yes_rsvp_count": 22,
+        "time": 1576000800000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -7012,7 +7010,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 450,
+    "members": 452,
     "member_pay_fee": false,
     "organizer": {
         "id": 62722322,
@@ -7077,7 +7075,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1243,
+    "members": 1251,
     "member_pay_fee": false,
     "organizer": {
         "id": 177206752,
@@ -7105,7 +7103,7 @@
     "next_event": {
         "id": "266363329",
         "name": "PyDataMCR - Hands On Data Visualization - BYOL(Bring your own laptops!)",
-        "yes_rsvp_count": 70,
+        "yes_rsvp_count": 68,
         "time": 1574877600000,
         "utc_offset": 0
     },
@@ -7318,7 +7316,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 329,
+    "members": 331,
     "member_pay_fee": false,
     "organizer": {
         "id": 289534868,
@@ -7354,7 +7352,7 @@
     "next_event": {
         "id": "265738719",
         "name": "Elastic Manchester January 2020",
-        "yes_rsvp_count": 25,
+        "yes_rsvp_count": 27,
         "time": 1580409000000,
         "utc_offset": 0
     },
@@ -7634,7 +7632,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 505,
+    "members": 506,
     "member_pay_fee": false,
     "who": "Members",
     "group_photo": {
@@ -7699,7 +7697,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 826,
+    "members": 832,
     "member_pay_fee": false,
     "organizer": {
         "id": 209727251,
@@ -7735,7 +7733,7 @@
     "next_event": {
         "id": "265737340",
         "name": "'Round Seven' - The Big Techy End of Decade Quiz ",
-        "yes_rsvp_count": 60,
+        "yes_rsvp_count": 61,
         "time": 1575568800000,
         "utc_offset": 0
     },
@@ -7779,7 +7777,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 545,
+    "members": 544,
     "member_pay_fee": false,
     "organizer": {
         "id": 161986092,
@@ -7852,7 +7850,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1098,
+    "members": 1100,
     "member_pay_fee": false,
     "organizer": {
         "id": 183969321,
@@ -8013,7 +8011,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 143,
+    "members": 142,
     "member_pay_fee": false,
     "organizer": {
         "id": 239098024,
@@ -8208,7 +8206,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 107,
+    "members": 109,
     "member_pay_fee": false,
     "organizer": {
         "id": 145156052,
@@ -8278,7 +8276,7 @@
     "visibility": "public",
     "lat": 53.41,
     "lon": -2.18,
-    "members": 828,
+    "members": 833,
     "member_pay_fee": false,
     "organizer": {
         "id": 136152892,
@@ -8311,13 +8309,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "263675173",
-        "name": "CodeUp Stockport November Monthly Session - hosted by CDL",
-        "yes_rsvp_count": 12,
-        "time": 1574708400000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -8428,7 +8419,7 @@
     "visibility": "public",
     "lat": 53.49,
     "lon": -2.24,
-    "members": 590,
+    "members": 592,
     "member_pay_fee": false,
     "organizer": {
         "id": 257121027,
@@ -8456,7 +8447,7 @@
     "next_event": {
         "id": "266077453",
         "name": "Global AI Bootcamp - Manchester",
-        "yes_rsvp_count": 22,
+        "yes_rsvp_count": 29,
         "time": 1576317600000,
         "utc_offset": 0
     },
@@ -8575,7 +8566,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 854,
+    "members": 858,
     "member_pay_fee": false,
     "organizer": {
         "id": 250749437,
@@ -8645,7 +8636,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1235,
+    "members": 1240,
     "member_pay_fee": false,
     "organizer": {
         "id": 257542221,
@@ -8902,7 +8893,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 399,
+    "members": 403,
     "member_pay_fee": false,
     "organizer": {
         "id": 247584838,
@@ -8959,7 +8950,7 @@
     "visibility": "public",
     "lat": 53.8,
     "lon": -1.56,
-    "members": 251,
+    "members": 250,
     "member_pay_fee": false,
     "organizer": {
         "id": 194383222,
@@ -9032,7 +9023,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 340,
+    "members": 339,
     "member_pay_fee": false,
     "organizer": {
         "id": 12087529,
@@ -9110,7 +9101,7 @@
     "visibility": "public_limited",
     "lat": 53.47,
     "lon": -2.23,
-    "members": 1318,
+    "members": 1317,
     "member_pay_fee": false,
     "organizer": {
         "id": 3403462,
@@ -9261,7 +9252,7 @@
     "visibility": "public",
     "lat": 53.46,
     "lon": -2.23,
-    "members": 705,
+    "members": 707,
     "member_pay_fee": false,
     "organizer": {
         "id": 72060332,
@@ -9297,7 +9288,7 @@
     "next_event": {
         "id": "265505155",
         "name": "Digital technology in Genomics – where are we and where are we heading to?",
-        "yes_rsvp_count": 39,
+        "yes_rsvp_count": 41,
         "time": 1579800600000,
         "utc_offset": 0
     },
@@ -9341,7 +9332,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 1240,
+    "members": 1239,
     "member_pay_fee": false,
     "organizer": {
         "id": 47886612,
@@ -9413,7 +9404,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 369,
+    "members": 371,
     "member_pay_fee": false,
     "organizer": {
         "id": 276414293,
@@ -9542,7 +9533,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 360,
+    "members": 363,
     "member_pay_fee": false,
     "organizer": {
         "id": 261645783,
@@ -9562,7 +9553,7 @@
     "next_event": {
         "id": "266320117",
         "name": "Behind The Buzz Word #8 - Navigating a live Kubernetes Cluster",
-        "yes_rsvp_count": 32,
+        "yes_rsvp_count": 34,
         "time": 1575568800000,
         "utc_offset": 0
     },
