@@ -105,3 +105,4 @@ dist
 
 # Site
 _site/
+.vscode/settings.json

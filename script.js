@@ -42,7 +42,13 @@ module.exports = (groups, events, attendees) => {
         desc: datasetDesc("./_data/attendees.json", "here")
     }];
 
-    let pages = []; // TODO
+    let pages = require("./_pages.json").map(page => {
+        return {
+            name: `<a href="pages/${page.link}" target="_blank">${page.name}</a>`,
+            desc: `${page.desc}<br/><br/>Author: <a href="${page.aURL}" target="_blank">${page.auth}</a>`,
+            slug: ``
+        }
+    });
 
     // Creating Home Page
     let index = pageLayout(
@@ -63,7 +69,7 @@ module.exports = (groups, events, attendees) => {
         globals.exampleNames,
         pages.map(page => {
             return homeItemModule(
-                `${page.name}` ,
+                `${page.name}`,
                 page.desc,
                 page.slug,
                 page.background ? page.background : ""
