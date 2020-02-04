@@ -1,4 +1,213 @@
 [{
+    "id": 33224511,
+    "name": "Together in Tech (Manchester)",
+    "status": "active",
+    "link": "https://www.meetup.com/Together-in-Tech-Manchester/",
+    "urlname": "Together-in-Tech-Manchester",
+    "description": "<p>Together in Tech is a community based group who come together regularly in Manchester for networking, learning and personal development. </p> \n<p>We will be hosting regular tech talks on diversity, career progression, emerging technologies and delivering business transformation</p>",
+    "created": 1579543779000,
+    "city": "Manchester",
+    "untranslated_city": "Manchester",
+    "country": "GB",
+    "localized_country_name": "United Kingdom",
+    "localized_location": "Manchester, United Kingdom",
+    "region2": "Greater Manchester",
+    "state": "18",
+    "join_mode": "approval",
+    "visibility": "public",
+    "lat": 53.48,
+    "lon": -2.25,
+    "members": 95,
+    "member_pay_fee": false,
+    "organizer": {
+        "id": 219645758,
+        "name": "Zoë G",
+        "bio": "",
+        "photo": {
+            "id": 264317639,
+            "highres_link": "https://secure.meetupstatic.com/photos/member/4/4/e/7/highres_264317639.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/member/4/4/e/7/member_264317639.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/member/4/4/e/7/thumb_264317639.jpeg",
+            "type": "member",
+            "base_url": "https://secure.meetupstatic.com"
+        }
+    },
+    "who": "Members",
+    "timezone": "Europe/London",
+    "category": {
+        "id": 34,
+        "name": "Tech",
+        "shortname": "tech",
+        "sort_name": "Tech"
+    },
+    "meta_category": {
+        "id": 292,
+        "shortname": "tech",
+        "name": "Tech",
+        "sort_name": "Tech",
+        "photo": {
+            "id": 450131949,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "category_ids": [34]
+    }
+}, {
+    "id": 33197582,
+    "name": "Manchester Quantum Computing",
+    "status": "active",
+    "link": "https://www.meetup.com/Manchester-Quantum-Computing/",
+    "urlname": "Manchester-Quantum-Computing",
+    "description": "<p>Classroom based practical quantum computing course in February , available to sign up now.</p> \n<p>Learn to code for D-Wave, IBM Q and Rigetti 19Q Chip.</p> \n<p>Hands-on course for students, postdocs, academics and others who want to learn how to develop applications to run on Quantum Computers using the QPU programming environment.</p> \n<p>Description of the course:<br>– Basics of quantum computing<br>– How to program for the D-Wave hardware (lecture + practical session)<br>– How to program for the IBM Q (lecture + practical session)<br>– How to program for the Rigetti hardware (lecture + practical session)<br>– Quantum security, and ultra-secure privacy protection (lecture + hands-on workshop).</p>",
+    "created": 1578911345000,
+    "city": "Manchester",
+    "untranslated_city": "Manchester",
+    "country": "GB",
+    "localized_country_name": "United Kingdom",
+    "localized_location": "Manchester, United Kingdom",
+    "region2": "Greater Manchester",
+    "state": "18",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 53.48,
+    "lon": -2.25,
+    "members": 84,
+    "member_pay_fee": false,
+    "organizer": {
+        "id": 292800063,
+        "name": "Quant G.",
+        "bio": "We are Quantum physicists, Mathematicians, experts in computer science, quantum algorithms, and machine learning and offer hands-on advanced practical training in Quantum Computing to solve Hi-valued real-world problems.",
+        "photo": {
+            "id": 293187045,
+            "highres_link": "https://secure.meetupstatic.com/photos/member/6/9/a/5/highres_293187045.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/member/6/9/a/5/member_293187045.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/member/6/9/a/5/thumb_293187045.jpeg",
+            "type": "member",
+            "base_url": "https://secure.meetupstatic.com"
+        }
+    },
+    "who": "Members",
+    "key_photo": {
+        "id": 488122878,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/5/9/5/e/highres_488122878.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/5/9/5/e/600_488122878.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/5/9/5/e/thumb_488122878.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "Europe/London",
+    "next_event": {
+        "id": "267874610",
+        "name": "Learn how to code a Quantum Computer - Training Course",
+        "yes_rsvp_count": 7,
+        "time": 1582032600000,
+        "utc_offset": 0
+    },
+    "category": {
+        "id": 34,
+        "name": "Tech",
+        "shortname": "tech",
+        "sort_name": "Tech"
+    },
+    "meta_category": {
+        "id": 292,
+        "shortname": "tech",
+        "name": "Tech",
+        "sort_name": "Tech",
+        "photo": {
+            "id": 450131949,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "category_ids": [34]
+    }
+}, {
+    "id": 33171018,
+    "name": "Manchester GCS Connect: Digital and Data",
+    "status": "active",
+    "link": "https://www.meetup.com/Manchester-GCS-Connect-Digital-Data/",
+    "urlname": "Manchester-GCS-Connect-Digital-Data",
+    "description": "<p>Our aim is to unite top industry professionals with a network of innovators in the technology community.</p>\n<p>In aiding discussions around the biggest topics impacting the market today, we want to encourage ideas, inspire questions, and discover solutions by bringing together the key players driving transformation within the technology sector. Our goal is to provide a setting where our members can form meaningful, face-to-face connections, in a space where it can often be difficult to take things ‘offline’.</p>\n<p><b>**Please note: we will open up RSVPs one month before the event**</b><br></p>\n<p>All levels are welcome, from junior software developers to managers to CTOs. GCS Connect is an open space where we can come together through our shared passion for an ever-evolving industry.</p>\n<p><b>If you're interested in speaking at one of our events, or have any questions or feedback, </b>please feel free to message us on Meetup or send an e-mail to <b>betty.lu@gcsrecruitment.com.</b></p>\n<p>We're always trying to improve and it would be great to hear your thoughts! <br></p>",
+    "created": 1578323372000,
+    "city": "Manchester",
+    "untranslated_city": "Manchester",
+    "country": "GB",
+    "localized_country_name": "United Kingdom",
+    "localized_location": "Manchester, United Kingdom",
+    "region2": "Greater Manchester",
+    "state": "18",
+    "join_mode": "open",
+    "visibility": "public",
+    "lat": 53.48,
+    "lon": -2.25,
+    "members": 121,
+    "member_pay_fee": false,
+    "organizer": {
+        "id": 280312346,
+        "name": "Betty",
+        "bio": "",
+        "photo": {
+            "id": 292706396,
+            "highres_link": "https://secure.meetupstatic.com/photos/member/6/7/1/c/highres_292706396.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/member/6/7/1/c/member_292706396.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/member/6/7/1/c/thumb_292706396.jpeg",
+            "type": "member",
+            "base_url": "https://secure.meetupstatic.com"
+        }
+    },
+    "who": "Connectors",
+    "group_photo": {
+        "id": 487961513,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/a/2/2/9/highres_487961513.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/a/2/2/9/600_487961513.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/a/2/2/9/thumb_487961513.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+    },
+    "key_photo": {
+        "id": 487961615,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/a/2/8/f/highres_487961615.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/a/2/8/f/600_487961615.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/a/2/8/f/thumb_487961615.jpeg",
+        "type": "event",
+        "base_url": "https://secure.meetupstatic.com"
+    },
+    "timezone": "Europe/London",
+    "next_event": {
+        "id": "267719671",
+        "name": "Manchester GCS Connect: Digital & Data",
+        "yes_rsvp_count": 25,
+        "time": 1582221600000,
+        "utc_offset": 0
+    },
+    "category": {
+        "id": 34,
+        "name": "Tech",
+        "shortname": "tech",
+        "sort_name": "Tech"
+    },
+    "meta_category": {
+        "id": 292,
+        "shortname": "tech",
+        "name": "Tech",
+        "sort_name": "Tech",
+        "photo": {
+            "id": 450131949,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "category_ids": [34]
+    }
+}, {
     "id": 32716186,
     "name": "Ministry of Coding",
     "status": "active",
@@ -17,12 +226,12 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 28,
+    "members": 30,
     "member_pay_fee": false,
     "organizer": {
         "id": 269544203,
         "name": "Aaron W.",
-        "bio": "Full grown human, pretending to adult, father, tech enthusiast, Marvel, Transformers and 80's fanatic, musician and recently appointed Partnership Manager for the lovely people over at North Coders. :)",
+        "bio": "Full grown human, pretending to adult, father, tech enthusiast, Marvel, Transformers and 80's fanatic and musician. I have a love for Tech and Software so wanted to use my years of connections to help support the local MCR tech community.",
         "photo": {
             "id": 283117015,
             "highres_link": "https://secure.meetupstatic.com/photos/member/9/0/9/7/highres_283117015.jpeg",
@@ -74,7 +283,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 184,
+    "members": 254,
     "member_pay_fee": false,
     "organizer": {
         "id": 36440942,
@@ -99,13 +308,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "266491198",
-        "name": "The DevOps Exchange Manchester - Launch Event ",
-        "yes_rsvp_count": 97,
-        "time": 1575311400000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -152,7 +354,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 30,
+    "members": 37,
     "member_pay_fee": false,
     "organizer": {
         "id": 295826483,
@@ -217,7 +419,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 512,
+    "members": 533,
     "member_pay_fee": false,
     "organizer": {
         "id": 224460603,
@@ -250,6 +452,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "268262723",
+        "name": "Open by default: beyond data and code",
+        "yes_rsvp_count": 11,
+        "time": 1581616800000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -290,7 +499,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 139,
+    "members": 144,
     "member_pay_fee": false,
     "organizer": {
         "id": 216350681,
@@ -342,7 +551,7 @@
     "status": "active",
     "link": "https://www.meetup.com/AR-Manchester/",
     "urlname": "AR-Manchester",
-    "description": "<p>****WELCOME TO AR MANCHESTER!****</p>\n<p><b>AR Manchester is:</b> the Augmented Reality meetup group and night for Greater Manchester and the surrounding areas.</p>\n<p>This group is for all who develop, design, explore, play and are passionate about AR - now, and where it's going in the future.</p>\n<p>We will be hosting:</p>\n<p>•&nbsp;Demos <br></p>\n<p>•&nbsp;Speakers <br></p>\n<p>•&nbsp;Presentations <br></p>\n<p>•&nbsp;Unconferences and Fireside discussions <br></p>\n<p>•&nbsp;Events</p>\n<p>• Networking<br></p>\n<p><b>The vision for AR Manchester is to grow a like-minded community of Augmented and Mixed Reality enthusiasts and share our knowledge together.</b></p>\n<p>And of course, to show off what we've achieved in (our) AR Manchester!</p>",
+    "description": "<p>****WELCOME TO AR MANCHESTER!****</p>\n<p><b>AR Manchester is:</b> the Augmented Reality meetup group and night for Greater Manchester and the surrounding areas.</p>\n<p>This group is for all who develop, design, explore, play and are passionate about AR - now, and where it's going in the future.</p>\n<p>We will be hosting:</p>\n<p>•&nbsp;Demos <br></p>\n<p>•&nbsp;Speakers <br></p>\n<p>•&nbsp;Presentations <br></p>\n<p>•&nbsp;Unconferences and Fireside discussions <br></p>\n<p>•&nbsp;Events</p>\n<p>• Networking <br></p>\n<p><b>The vision for AR Manchester is to grow a like-minded community of Augmented and Mixed Reality enthusiasts and share our knowledge together.</b></p>\n<p>And of course, to show off what we've achieved in (our) AR Manchester! <br></p>\n<p>We've also got a quick <a href=\"https://ar-manchester.mailchimpsites.com/\">mailing list signup page</a>, which details the next set of events and more features from the AR Manchester community. <br></p>",
     "created": 1564580573000,
     "city": "Manchester",
     "untranslated_city": "Manchester",
@@ -355,12 +564,12 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 96,
+    "members": 119,
     "member_pay_fee": false,
     "organizer": {
         "id": 190562219,
         "name": "Jane",
-        "bio": "Marketing Director for EON Reality, and freelance marketer for SaaS companies in very different technology sectors. I founded the following communities: Music Tech North, AR Manchester and Immersive Learning North.",
+        "bio": "Marketing Director for EON Reality, and freelance marketing lead for retail and SaaS companies in very diverse sectors. I founded the following UK Meetup communities: Music Tech North, AR Manchester and Immersive Learning North.",
         "photo": {
             "id": 290891659,
             "highres_link": "https://secure.meetupstatic.com/photos/member/2/d/8/b/highres_290891659.jpeg",
@@ -383,8 +592,8 @@
     "next_event": {
         "id": "266556154",
         "name": "AR Manchester #2",
-        "yes_rsvp_count": 4,
-        "time": 1579717800000,
+        "yes_rsvp_count": 30,
+        "time": 1582828200000,
         "utc_offset": 0
     },
     "category": {
@@ -427,7 +636,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 231,
+    "members": 239,
     "member_pay_fee": false,
     "organizer": {
         "id": 195613140,
@@ -479,7 +688,7 @@
     "status": "active",
     "link": "https://www.meetup.com/Infosec_Hoppers/",
     "urlname": "Infosec_Hoppers",
-    "description": "<p>Welcome to the Meetup page of the Manchester InfoSec Hoppers!</p>\n<p>The InfoSec Hoppers are a group of women, those who identify as a women and non binary, who either work in or are interested in InfoSec. We run a range of events for all people in tech who are interested in security. Some of our events are for&nbsp;women, those who identify as a women and non binary only, and some are open to all.</p>\n<p>We want to open up the world of InfoSec,&nbsp;achieving greater diversity, representation and equality and helping to embed security across all roles in tech. Through our buddying system, we facilitate women,&nbsp;those who identify as a women and non binary, to buddy up to attend existing meet-ups, events and conferences,&nbsp;<span>creating a safe and friendly space across&nbsp;the&nbsp;tech community.</span></p>\n<p>All our events and spaces have a code of conduct.&nbsp;</p>\n<p><br></p>\n<p><span><b>InfoSec Hoppers Code of Conduct&nbsp;</b></span><br></p>\n<p>Conduct in InfoSec Hoppers Spaces.</p>\n<p>InfoSec Hoppers spaces include our meetings, events, workshops, slack group and Meetup page. These are inclusive places where all people should feel safe and respected.</p>\n<p>We welcome diversity in age, race, ethnicity, national origin, range of abilities, sexual orientation, gender identity, financial means, education, and political perspective.</p>\n<p>We want all our members to enjoy a safe and respectful environment.</p>\n<p>We will not tolerate any form of harassment, hate speech or trolling either off or online, or any overly drunken, intimidating, heckling or violent behaviour in our spaces. Harassment can be either verbal, written, behavioural or imagery and includes any racist, homophobic, transphobic, sexist, sexually inappropriate or religiously discriminatory language, behaviour or imagery. “Jokes”, “banter” and “freedom of speech” will not be accepted as justifications or excuse for such language, behaviour or imagery.&nbsp;</p>\n<p>Although we cannot police the behaviour of members or contributors outside these spaces, we will do everything we can to help resolve any issues that may occur outside our spaces. If we are made aware of any incidents of racist, homophobic, transphobic, sexist, sexually inappropriate or religiously discriminatory language, behaviour or imagery, this may result in a ban from the group.</p>\n<p>If you have any issues or concerns relating to the code of conduct please contact one of the organisers either in person, though the Meetup page or via the email (<a href=\"mailto:infosechoppers@gmail.com\">infosechoppers@gmail.com</a>) or the slack group.&nbsp;</p>\n<p><b>Hoppers organisers:</b>&nbsp;<span>Catherine Chapman,&nbsp;</span><span>Saskia Coplans,&nbsp;</span><span>Gem Hill</span></p>\n<p>If you have an issues at an event, meeting or workshop please speak to one of the organisers.</p>\n<p>Meetings and Workshops</p>\n<p>InfoSec Hoppers meetings and workshops usually are not sponsored. Some events are dry, but alcohol may be consumed at some of the evening events. Events are open to under 18’s, however we do not accept responsibility for minors so meetings and workshops are not appropriate for under 16’s unless accompanied by an adult.</p>\n<p>Meetings and talks are pitched at all technical levels, however workshops and CTFs will require some level of technical ability. All technical levels are welcome at the workshops and CTFs, we provide coaches for all abelites, but ask that members are respectful of their time.&nbsp;</p>\n<p>When attending meetings and workshops please respect the presenters.&nbsp;Please don’t talk amongst yourselves during their presentations, have your phones either muted or switched off and be aware that this is a group activity.</p>\n<p>We are guests of the venues we use, so please don’t tamper with fixtures, hardware, software or infrastructure, or generally take thinks such a food and drink without permission.&nbsp;</p>\n<p>All InfoSec Hoppers spaces are privately run and we withhold the right to remove and ultimately ban anyone who violates this code of conduct.</p>\n<br>",
+    "description": "<p>Welcome to the Meetup page of the Manchester InfoSec Hoppers!</p>\n<p>The InfoSec Hoppers are a group of women and gender minorites, who either work in or are interested in InfoSec. We run a range of events for all people in tech who are interested in security. Some of our events are for&nbsp;women and gender minorities only, some are open to everyone.</p>\n<p>We want to open up the world of InfoSec,&nbsp;achieving greater diversity, representation and equality and helping to embed security across all roles in tech. Through our buddying system, we facilitate women,&nbsp;those who identify as a women and non binary, to buddy up to attend existing meet-ups, events and conferences,&nbsp;<span>creating a safe and friendly space across&nbsp;the&nbsp;tech community.</span></p>\n<p>All our events and spaces have a code of conduct.&nbsp;</p>\n<p> <br></p>\n<p><span><b>InfoSec Hoppers Code of Conduct&nbsp;</b></span> <br></p>\n<p>Conduct in InfoSec Hoppers Spaces.</p>\n<p>InfoSec Hoppers spaces include our meetings, events, workshops, slack group and Meetup page. These are inclusive places where all people should feel safe and respected.</p>\n<p>We welcome diversity in age, race, ethnicity, national origin, range of abilities, sexual orientation, gender identity, financial means, education, and political perspective.</p>\n<p>We want all our members to enjoy a safe and respectful environment.</p>\n<p>We will not tolerate any form of harassment, hate speech or trolling either off or online, or any overly intoxicated, intimidating, heckling or violent behaviour in our spaces. Harassment can be either verbal, written, behavioural or imagery and includes any racist, homophobic, transphobic, sexist, sexually inappropriate or religiously discriminatory language, behaviour or imagery. “Jokes”, “banter” and “freedom of speech” will not be accepted as justifications or excuse for such language, behaviour or imagery.&nbsp;</p>\n<p>Although we cannot police the behaviour of members or contributors outside these spaces, we will do everything we can to help resolve any issues that may occur outside our spaces. If we are made aware of any incidents of racist, homophobic, transphobic, sexist, sexually inappropriate or religiously discriminatory language, behaviour or imagery, this may result in a ban from the group.</p>\n<p>If you have any issues or concerns relating to the code of conduct please contact one of the organisers either in person, though the Meetup page or via the email (<a href=\"mailto:infosechoppers@gmail.com\">infosechoppers@gmail.com</a>) or the slack group.&nbsp;</p>\n<p><b>Hoppers organisers:</b>&nbsp;<span>Catherine Chapman,&nbsp;</span><span>Saskia Coplans,&nbsp;</span><span>Gem Hill, Annie Mbako.</span></p>\n<p>If you have an issues at an event, meeting or workshop please speak to one of the organisers.</p>\n<p>Meetings and Workshops</p>\n<p>InfoSec Hoppers meetings and workshops usually are not sponsored. Some events are dry, but alcohol may be consumed at some of the evening events. Events are open to under 18’s, however we do not accept responsibility for minors so meetings and workshops are not appropriate for under 16’s unless accompanied by an adult.</p>\n<p>Meetings and talks are pitched at all technical levels, however workshops and CTFs will require some level of technical ability. All technical levels are welcome at the workshops and CTFs, we provide coaches for all abelites, but ask that members are respectful of their time.&nbsp;</p>\n<p>When attending meetings and workshops please respect the presenters.&nbsp;Please don’t talk amongst yourselves during their presentations, have your phones either muted or switched off and be aware that this is a group activity.</p>\n<p>We are guests of the venues we use, so please don’t tamper with fixtures, hardware, software or infrastructure, or generally take thinks such a food and drink without permission.&nbsp;</p>\n<p>All InfoSec Hoppers spaces are privately run and we withhold the right to remove and ultimately ban anyone who violates this code of conduct.</p>\n<br>",
     "created": 1541605231000,
     "city": "Manchester",
     "untranslated_city": "Manchester",
@@ -492,7 +701,7 @@
     "visibility": "public",
     "lat": 53.47,
     "lon": -2.24,
-    "members": 205,
+    "members": 222,
     "member_pay_fee": false,
     "organizer": {
         "id": 213056661,
@@ -517,6 +726,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "267609997",
+        "name": "Hoppers CTF for Women and Gender Minorities ",
+        "yes_rsvp_count": 20,
+        "time": 1581762600000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -557,17 +773,17 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.23,
-    "members": 359,
+    "members": 369,
     "member_pay_fee": false,
     "organizer": {
-        "id": 187553704,
-        "name": "Wes P.",
-        "bio": "",
+        "id": 209437456,
+        "name": "OWASP F.",
+        "bio": "OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted. All tools, documents, forums and chapters are free and open to everyone.",
         "photo": {
-            "id": 279360425,
-            "highres_link": "https://secure.meetupstatic.com/photos/member/1/a/9/highres_279360425.jpeg",
-            "photo_link": "https://secure.meetupstatic.com/photos/member/1/a/9/member_279360425.jpeg",
-            "thumb_link": "https://secure.meetupstatic.com/photos/member/1/a/9/thumb_279360425.jpeg",
+            "id": 262574750,
+            "highres_link": "https://secure.meetupstatic.com/photos/member/3/9/9/e/highres_262574750.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/member/3/9/9/e/member_262574750.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/member/3/9/9/e/thumb_262574750.jpeg",
             "type": "member",
             "base_url": "https://secure.meetupstatic.com"
         }
@@ -602,6 +818,12 @@
             "base_url": "https://secure.meetupstatic.com"
         },
         "category_ids": [34]
+    },
+    "pro_network": {
+        "name": "OWASP Foundation",
+        "urlname": "owasp",
+        "number_of_groups": 184,
+        "network_url": "https://www.meetup.com/pro/owasp/"
     }
 }, {
     "id": 10046882,
@@ -622,7 +844,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 1010,
+    "members": 1039,
     "member_pay_fee": false,
     "organizer": {
         "id": 39070362,
@@ -682,7 +904,7 @@
     "status": "active",
     "link": "https://www.meetup.com/Software-Crafters-North/",
     "urlname": "Software-Crafters-North",
-    "description": "<p><span>The London Software Craftsmanship Community (LSCC) was founded with the purpose of improving and mastering the craft of software development. The group has over 4,500 members to date - the largest and most active crafting community in the world.</span></p>\n<p>We want to share the ethos of the LSCC with the Northern tech community and therefore this is a group for local software professionals -regardless of their level of experience- to improve and master their craft. The term 'craftsmanship' applies to the methodology and principles of the movement - this is an inclusive group for all with a coding interest to attend.&nbsp;</p>\n<p>We'll be hosting talks, hands-on sessions and all manner of events; we look forward to you joining our community.&nbsp; <br></p>\n<p>We value:</p>\n<p>•&nbsp;Working, well-crafted software</p>\n<p>•&nbsp;Steadily adding value while responding to change</p>\n<p><span>•&nbsp;A community of professionals</span></p>\n<p>•&nbsp;<span>Productive partnerships and collaboration</span></p>\n<p><a href=\"https://twitter.com/NorthCrafters\">https://twitter.com/NorthCrafters</a> <br></p>\n<p>Please contact Emma.Booth@codurance.com should you have any queries or requests.&nbsp;</p>",
+    "description": "<p><span>The London Software Craftsmanship Community (LSCC) was founded with the purpose of improving and mastering the craft of software development. The group has over 4,500 members to date - the largest and most active crafting community in the world.</span></p>\n<p>We want to share the ethos of the LSCC with the Northern tech community and therefore this is a group for local software professionals -regardless of their level of experience- to improve and master their craft. The term 'craftsmanship' applies to the methodology and principles of the movement - this is an inclusive group for all with a coding interest to attend.&nbsp;</p>\n<p>We'll be hosting talks, hands-on sessions and all manner of events; we look forward to you joining our community.&nbsp; <br></p>\n<p>We value:</p>\n<p>•&nbsp;Working, well-crafted software</p>\n<p>•&nbsp;Steadily adding value while responding to change</p>\n<p><span>•&nbsp;A community of professionals</span></p>\n<p>•&nbsp;<span>Productive partnerships and collaboration</span></p>\n<p><a href=\"https://twitter.com/NorthCrafters\">https://twitter.com/NorthCrafters</a> <br></p>\n<p>Please contact SCNorth@codurance.com should you have any queries or requests.&nbsp;</p>",
     "created": 1551788081000,
     "city": "Manchester",
     "untranslated_city": "Manchester",
@@ -695,7 +917,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 370,
+    "members": 438,
     "member_pay_fee": false,
     "organizer": {
         "id": 276414293,
@@ -720,6 +942,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "267906992",
+        "name": "A talk from Sandro Mancuso: Aligning Product and Software Design",
+        "yes_rsvp_count": 53,
+        "time": 1580927400000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -798,13 +1027,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "260565743",
-        "name": "Xmas Meal",
-        "yes_rsvp_count": 3,
-        "time": 1575918000000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -827,62 +1049,10 @@
         "category_ids": [34]
     }
 }, {
-    "id": 21276801,
-    "name": "BCS Greater Manchester Branch",
-    "status": "active",
-    "link": "https://www.meetup.com/BCS-Greater-Manchester-Branch/",
-    "urlname": "BCS-Greater-Manchester-Branch",
-    "description": "<p>If you are&nbsp;working, or seeking to work,&nbsp;in the information technology/digital sector in Greater Manchester, then this Meetup group is for you. </p>\n<p>We&nbsp;invite&nbsp;people of all ages, working in all IT/digital skill areas,&nbsp;to join, so that, together, we can learn more, increase our skills, grow our personal networks,&nbsp;and therefore&nbsp;all make the most of the opportunities that the IT/digital sector in Greater Manchester has to offer.&nbsp;</p>\n<p>You might be working in strategy &amp; architecture, change &amp; transformation, development &amp; implementation, delivery &amp; operation, skills&nbsp;&amp; quality, sourcing&nbsp;or marketing and sales. </p>\n<p>You might currently be&nbsp;choosing or studying&nbsp;GCSE, A-level, degree, master's or PhD topics with the intention of taking up a career in the&nbsp;IT/digital&nbsp;sector.</p>\n<p>You might be working already: entry/junior support, foundation/support, practitioner/analyst, advanced/manager, expert/senior manager or thought leader/head of function executive.&nbsp;</p>\n<p>Please join so we can start building the network, sharing sources of information and expertise, and designing and running events that will help us all make the most of the opportunities that the IT/digital sector in Greater Manchester has to offer.</p>",
-    "created": 1480084085000,
-    "city": "Manchester",
-    "untranslated_city": "Manchester",
-    "country": "GB",
-    "localized_country_name": "United Kingdom",
-    "localized_location": "Manchester, United Kingdom",
-    "region2": "Greater Manchester",
-    "state": "18",
-    "join_mode": "open",
-    "visibility": "public",
-    "lat": 53.48,
-    "lon": -2.25,
-    "members": 259,
-    "member_pay_fee": false,
-    "organizer": {
-        "id": 35757372,
-        "name": "Sue D.",
-        "bio": "",
-        "photo": {
-            "id": 86816262,
-            "highres_link": "https://secure.meetupstatic.com/photos/member/d/b/c/6/highres_86816262.jpeg",
-            "photo_link": "https://secure.meetupstatic.com/photos/member/d/b/c/6/member_86816262.jpeg",
-            "thumb_link": "https://secure.meetupstatic.com/photos/member/d/b/c/6/thumb_86816262.jpeg",
-            "type": "member",
-            "base_url": "https://secure.meetupstatic.com"
-        }
-    },
-    "who": "Members",
-    "timezone": "Europe/London",
-    "category": {
-        "id": 6,
-        "name": "Education & Learning",
-        "shortname": "education-learning",
-        "sort_name": "Education & Learning"
-    },
-    "meta_category": {
-        "id": 562,
-        "shortname": "education",
-        "name": "Learning",
-        "sort_name": "Learning",
-        "photo": {
-            "id": 450131931,
-            "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/b/highres_450131931.jpeg",
-            "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/b/600_450131931.jpeg",
-            "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/b/thumb_450131931.jpeg",
-            "type": "event",
-            "base_url": "https://secure.meetupstatic.com"
-        },
-        "category_ids": [6]
-    }
+    "errors": [{
+        "code": "group_error",
+        "message": "Invalid group urlname BCS-Greater-Manchester-Branch"
+    }]
 }, {
     "id": 1276193,
     "name": "BLAB",
@@ -980,7 +1150,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 819,
+    "members": 843,
     "member_pay_fee": false,
     "organizer": {
         "id": 202589202,
@@ -1006,10 +1176,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "266381133",
-        "name": "Merry Chickmas: The 2019 RoundUp.",
-        "yes_rsvp_count": 40,
-        "time": 1576087200000,
+        "id": "268446194",
+        "name": "Return of Impostor Syndrome: LEEDS EDITION",
+        "yes_rsvp_count": 13,
+        "time": 1582137000000,
         "utc_offset": 0
     },
     "category": {
@@ -1052,7 +1222,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 738,
+    "members": 786,
     "member_pay_fee": false,
     "who": "Members",
     "group_photo": {
@@ -1112,7 +1282,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 4814,
+    "members": 4948,
     "member_pay_fee": false,
     "organizer": {
         "id": 136152892,
@@ -1146,10 +1316,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "fvmpzpyzqbmb",
-        "name": "CodeUp Manchester December Monthly Session",
-        "yes_rsvp_count": 50,
-        "time": 1575918000000,
+        "id": "fvmpzpybcdbnb",
+        "name": "CodeUp Manchester February Monthly Session",
+        "yes_rsvp_count": 59,
+        "time": 1581361200000,
         "utc_offset": 0
     },
     "category": {
@@ -1176,7 +1346,7 @@
     "pro_network": {
         "name": "CodeUp",
         "urlname": "codeup",
-        "number_of_groups": 17,
+        "number_of_groups": 18,
         "network_url": "https://www.meetup.com/pro/codeup/"
     }
 }, {
@@ -1198,7 +1368,7 @@
     "visibility": "public",
     "lat": 53.47,
     "lon": -2.29,
-    "members": 911,
+    "members": 951,
     "member_pay_fee": false,
     "organizer": {
         "id": 136152892,
@@ -1232,10 +1402,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "vxxllryzqbvb",
+        "id": "vxxllrybcdbwb",
         "name": "CodeUp Salford Monthly Session ",
-        "yes_rsvp_count": 8,
-        "time": 1576522800000,
+        "yes_rsvp_count": 15,
+        "time": 1581966000000,
         "utc_offset": 0
     },
     "category": {
@@ -1262,7 +1432,7 @@
     "pro_network": {
         "name": "CodeUp",
         "urlname": "codeup",
-        "number_of_groups": 17,
+        "number_of_groups": 18,
         "network_url": "https://www.meetup.com/pro/codeup/"
     }
 }, {
@@ -1284,7 +1454,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 146,
+    "members": 149,
     "member_pay_fee": false,
     "organizer": {
         "id": 61225322,
@@ -1341,7 +1511,7 @@
     "visibility": "public_limited",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 2754,
+    "members": 2887,
     "member_pay_fee": false,
     "organizer": {
         "id": 30436702,
@@ -1375,10 +1545,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "266051407",
-        "name": "The Startup Journey 2: Overcoming Challenges",
-        "yes_rsvp_count": 62,
-        "time": 1574877600000,
+        "id": "267695234",
+        "name": "2020 Vision",
+        "yes_rsvp_count": 129,
+        "time": 1581010200000,
         "utc_offset": 0
     },
     "category": {
@@ -1421,7 +1591,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 2333,
+    "members": 2396,
     "member_pay_fee": false,
     "organizer": {
         "id": 65452892,
@@ -1453,6 +1623,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "268013561",
+        "name": "An introduction to App Center",
+        "yes_rsvp_count": 5,
+        "time": 1582051500000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -1477,7 +1654,7 @@
     "pro_network": {
         "name": ".NET Foundation",
         "urlname": "dotnet",
-        "number_of_groups": 340,
+        "number_of_groups": 346,
         "network_url": "https://www.meetup.com/pro/dotnet/"
     }
 }, {
@@ -1499,7 +1676,7 @@
     "visibility": "public",
     "lat": 37.77,
     "lon": -122.4,
-    "members": 2641,
+    "members": 2625,
     "member_pay_fee": false,
     "organizer": {
         "id": 7062483,
@@ -1577,7 +1754,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 2105,
+    "members": 2094,
     "member_pay_fee": false,
     "organizer": {
         "id": 77652922,
@@ -1656,7 +1833,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.22,
-    "members": 2198,
+    "members": 2273,
     "member_pay_fee": false,
     "organizer": {
         "id": 91316152,
@@ -1682,10 +1859,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "kdpqgryzpbkc",
+        "id": "mpwnlrybcdbhb",
         "name": "Hackspace Manchester Open Evening",
-        "yes_rsvp_count": 4,
-        "time": 1574879400000,
+        "yes_rsvp_count": 7,
+        "time": 1580927400000,
         "utc_offset": 0
     },
     "category": {
@@ -1780,7 +1957,7 @@
     "status": "active",
     "link": "https://www.meetup.com/HCD-Manchester/",
     "urlname": "HCD-Manchester",
-    "description": "<p><span>We want to build a community of multi-disciplined Designers, Developers, UX Professionals, Business Owners, Product Owners and Startup Entrepreneurs that believe in tackling challenges with a Human-Centered approach.</span> <br></p>\n<p>Our group aims to grow and develop a community who values the 'Human-Centered Design' Ethos. We want to foster innovation within businesses to create products and services users need and more importantly desire. We are advocates of Design Thinking; a framework that helps us design for people and puts their needs at the centre. IDEO developed the 'design thinking' methodology and we love it. We plan to offer regular Meetups, events, workshops and socials for anyone interested in learning and sharing new skills.</p>\n<p>Who should come? Anyone that has an interest in people and solving their needs.&nbsp;</p>\n<p>For more info visit our website&nbsp;<span><a href=\"http://www.hcdproductfoundry.co.uk\">www.hcdproductfoundry.co.uk</a></span></p>",
+    "description": "<p><span>We want to build a community of multi-disciplined Designers, Developers, UX Professionals, Business Owners, Product Owners and Startup Entrepreneurs that believe in tackling challenges with a Human-Centered approach.</span> <br></p>\n<p>Our group aims to grow and develop a community who values the 'Human-Centered Design' Ethos. We want to foster innovation within businesses to create products and services users need and more importantly desire. We are advocates of Design Thinking; a framework that helps us design for people and puts their needs at the centre. IDEO developed the 'design thinking' methodology and we love it. We plan to offer regular Meetups, events, workshops and socials for anyone interested in learning and sharing new skills.</p>\n<p>Who should come? Anyone that has an interest in people and solving their needs.&nbsp;</p>",
     "created": 1443106046000,
     "city": "Manchester",
     "untranslated_city": "Manchester",
@@ -1793,7 +1970,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1437,
+    "members": 1491,
     "member_pay_fee": false,
     "organizer": {
         "id": 78536482,
@@ -1810,18 +1987,18 @@
     },
     "who": "Design thinkers",
     "group_photo": {
-        "id": 451159569,
-        "highres_link": "https://secure.meetupstatic.com/photos/event/4/c/7/1/highres_451159569.jpeg",
-        "photo_link": "https://secure.meetupstatic.com/photos/event/4/c/7/1/600_451159569.jpeg",
-        "thumb_link": "https://secure.meetupstatic.com/photos/event/4/c/7/1/thumb_451159569.jpeg",
+        "id": 488346572,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/1/9/a/c/highres_488346572.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/1/9/a/c/600_488346572.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/1/9/a/c/thumb_488346572.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
-        "id": 447028869,
-        "highres_link": "https://secure.meetupstatic.com/photos/event/7/0/c/5/highres_447028869.jpeg",
-        "photo_link": "https://secure.meetupstatic.com/photos/event/7/0/c/5/600_447028869.jpeg",
-        "thumb_link": "https://secure.meetupstatic.com/photos/event/7/0/c/5/thumb_447028869.jpeg",
+        "id": 458318167,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/9/5/1/7/highres_458318167.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/9/5/1/7/600_458318167.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/9/5/1/7/thumb_458318167.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
     },
@@ -1866,7 +2043,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1576,
+    "members": 1585,
     "member_pay_fee": false,
     "organizer": {
         "id": 69819242,
@@ -1923,17 +2100,17 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 1174,
+    "members": 1196,
     "member_pay_fee": false,
     "organizer": {
-        "id": 121643322,
-        "name": "Bernadette",
+        "id": 271189438,
+        "name": "Isaac D.",
         "bio": "",
         "photo": {
-            "id": 161155762,
-            "highres_link": "https://secure.meetupstatic.com/photos/member/d/9/d/2/highres_161155762.jpeg",
-            "photo_link": "https://secure.meetupstatic.com/photos/member/d/9/d/2/member_161155762.jpeg",
-            "thumb_link": "https://secure.meetupstatic.com/photos/member/d/9/d/2/thumb_161155762.jpeg",
+            "id": 286014978,
+            "highres_link": "https://secure.meetupstatic.com/photos/member/d/6/c/2/highres_286014978.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/member/d/6/c/2/member_286014978.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/member/d/6/c/2/thumb_286014978.jpeg",
             "type": "member",
             "base_url": "https://secure.meetupstatic.com"
         }
@@ -1956,6 +2133,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "268317919",
+        "name": "Two talks from Booking.com!",
+        "yes_rsvp_count": 21,
+        "time": 1582655400000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -1996,7 +2180,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 905,
+    "members": 910,
     "member_pay_fee": false,
     "organizer": {
         "id": 57752332,
@@ -2074,7 +2258,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 2824,
+    "members": 2946,
     "member_pay_fee": false,
     "organizer": {
         "id": 13208357,
@@ -2107,6 +2291,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "267726794",
+        "name": "Roman Pichler - The Product Owner Role",
+        "yes_rsvp_count": 219,
+        "time": 1585677600000,
+        "utc_offset": 3600000
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -2153,7 +2344,7 @@
     "visibility": "public",
     "lat": 53.27,
     "lon": -2.15,
-    "members": 397,
+    "members": 401,
     "member_pay_fee": false,
     "organizer": {
         "id": 188768004,
@@ -2226,7 +2417,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 612,
+    "members": 611,
     "member_pay_fee": false,
     "organizer": {
         "id": 207053281,
@@ -2283,7 +2474,7 @@
     "pro_network": {
         "name": "Magento",
         "urlname": "magento",
-        "number_of_groups": 128,
+        "number_of_groups": 129,
         "network_url": "https://www.meetup.com/pro/magento/"
     }
 }, {
@@ -2305,7 +2496,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 649,
+    "members": 646,
     "member_pay_fee": false,
     "who": "Data Geeks",
     "group_photo": {
@@ -2365,7 +2556,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 549,
+    "members": 551,
     "member_pay_fee": false,
     "organizer": {
         "id": 225301838,
@@ -2422,7 +2613,7 @@
     "status": "active",
     "link": "https://www.meetup.com/manchesterentrepreneursclub/",
     "urlname": "manchesterentrepreneursclub",
-    "description": "<p>Entrepreneurs, Startups, Business Owners &amp; Creatives in Manchester</p>\n<p>This group is for anyone with an idea, in the process of starting up or who may already be running a successful business to come together, share ideas, answer questions, act as &nbsp;support network for one another and create some events with like minded people.</p>\n<p>This could be arranging guest speakers, networking events, &nbsp;social events and holding monthly meet ups, addressing key areas that some of us may either fall short or excel in for example: Accounts, Marketing, Sales, Business Development or IT.</p>\n<p>We look forward to welcoming you and sharing ideas.&nbsp;</p>\n<p> <br></p>\n<p> <br></p>\n<p> <br></p>\n<p> <br></p>\n<p> <br></p>",
+    "description": "<p>This group is for people seeking to network together in Manchester.&nbsp;</p>\n<p><span>If you're a startup, business owner, business development manager or sales exec, you're more than welcome to join us all for our regular open networking sessions.</span><br></p>\n<p>Regardless of whether you've been running your own business for years, or just have an idea, w<span>e come together to connect, share ideas and help each other in business.</span></p>\n<p><span>We look forward to meeting you and welcoming you as part of the group!</span></p>\n<p><span>Feel free to contact the organiser (Patrick) if you have any questions before attending one of our events.</span></p>\n<p><span>--</span></p>\n<p><span><b>Patrick Lauruol |</b> Startup Coach</span></p>\n<p><span>patrick@patricklauruol.com</span></p>\n<p><span>07393930652</span></p>\n<p><span><a href=\"http://www.patricklauruol.com\">www.patricklauruol.com</a>&nbsp;</span><br></p>\n<p> <br></p>\n<p> <br></p>\n<p> <br></p>\n<p> <br></p>\n<p> <br></p>",
     "created": 1444580812000,
     "city": "Manchester",
     "untranslated_city": "Manchester",
@@ -2435,7 +2626,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 2940,
+    "members": 3019,
     "member_pay_fee": false,
     "organizer": {
         "id": 61163682,
@@ -2469,10 +2660,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "264166955",
-        "name": "Monthly Morning Networking Event",
-        "yes_rsvp_count": 53,
-        "time": 1574929800000,
+        "id": "267832990",
+        "name": "Lunchtime Networking at the BIPC (Business and IP Centre)",
+        "yes_rsvp_count": 23,
+        "time": 1582804800000,
         "utc_offset": 0
     },
     "category": {
@@ -2502,7 +2693,7 @@
     "status": "active",
     "link": "https://www.meetup.com/Manchester-Futurists/",
     "urlname": "Manchester-Futurists",
-    "description": "<p>We are fascinated by how technological advancement will shape the future, and the social, ethical and economic challenges humanity will face. Come talk about it with us!</p>\n<p>We plan to hold regular meetups that introduce concepts relating to futurism, followed by an informal discussion on the subject. Probably followed by the pub :)</p>\n<p>You can expect us to cover topics such as: <br>- Artificial Intelligence <br>- Universal Basic Income <br>- Techno-progressivism <br>- Bio-hacking <br>- The technological singularity <br>- Transhumanism <br>- AR and VR <br>- Machine Learning <br>- Utopian and Dystopian scenarios <br>- Speculative fiction <br>- Anything featured in Black Mirror!</p>\n<p>Pretty much the kinds of things you might find here <a href=\"https://www.reddit.com/r/Futurology/wiki/glossary\" class=\"linkified\">https://www.reddit.com/r/Futurology/wiki/glossary</a></p>\n<p>We aim to take an evidence-based approach and avoid pseudoscience. We believe social justice is important to a utopian future, and where appropriate will discuss intersections with feminism, racism, etc.</p>\n<p>We value diversity and healthy debate is encouraged, but please do so in good faith and treat each other with respect. We haven't got our own website yet but our Code of Conduct will be the same as this one <a href=\"https://manchestertechnights.org/code-of-conduct/\" class=\"linkified\">https://manchestertechnights.org/code-of-conduct/</a></p>\n<p>Check out our podcast here&nbsp;<a href=\"https://soundcloud.com/manchester-futurists/\">https://soundcloud.com/manchester-futurists/</a></p>\n<p>Join us to exercise your brain, discuss the future and meet people with a passion for technology!</p>",
+    "description": "<p>We are fascinated by how technological advancement will shape the future, and the social, ethical and economic challenges humanity will face. Come talk about it with us!</p>\n<p>We plan to hold regular meetups that introduce concepts relating to futurism, followed by an informal discussion on the subject. Probably followed by the pub :)</p>\n<p>You can expect us to cover topics such as: <br>- Artificial Intelligence <br>- Universal Basic Income <br>- Techno-progressivism <br>- Bio-hacking <br>- The technological singularity <br>- Transhumanism <br>- AR and VR <br>- Machine Learning <br>- Utopian and Dystopian scenarios <br>- Speculative fiction <br>- Anything featured in Black Mirror!</p>\n<p>Pretty much the kinds of things you might find here <a href=\"https://www.reddit.com/r/Futurology/wiki/glossary\" class=\"linkified\">https://www.reddit.com/r/Futurology/wiki/glossary</a></p>\n<p>We aim to take an evidence-based approach and avoid pseudoscience. We believe social justice is important to a utopian future, and where appropriate will discuss intersections with feminism, racism, etc.</p>\n<p>We value diversity and healthy debate is encouraged, but please do so in good faith and treat each other with respect. We haven't got our own website yet but our Code of Conduct will be the same as this one <a href=\"https://manchestertechnights.org/code-of-conduct/\" class=\"linkified\">https://manchestertechnights.org/code-of-conduct/</a></p>\n<p>Check out our new blog here - <a>http://manchesterfuturists.home.blog/</a></p>\n<p><br>Join us to exercise your brain, discuss the future and meet people with a passion for technology!</p>",
     "created": 1483979880000,
     "city": "Manchester",
     "untranslated_city": "Manchester",
@@ -2515,7 +2706,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1827,
+    "members": 1919,
     "member_pay_fee": false,
     "organizer": {
         "id": 185963398,
@@ -2532,14 +2723,21 @@
     },
     "who": "Futurists",
     "key_photo": {
-        "id": 458670567,
-        "highres_link": "https://secure.meetupstatic.com/photos/event/7/7/6/7/highres_458670567.jpeg",
-        "photo_link": "https://secure.meetupstatic.com/photos/event/7/7/6/7/600_458670567.jpeg",
-        "thumb_link": "https://secure.meetupstatic.com/photos/event/7/7/6/7/thumb_458670567.jpeg",
+        "id": 488031060,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/c/7/7/4/highres_488031060.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/c/7/7/4/600_488031060.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/c/7/7/4/thumb_488031060.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "268110086",
+        "name": "The Art, Science and Technology of Responsive Media.",
+        "yes_rsvp_count": 53,
+        "time": 1582223400000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -2580,7 +2778,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 682,
+    "members": 702,
     "member_pay_fee": false,
     "organizer": {
         "id": 202395876,
@@ -2597,13 +2795,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "266489020",
-        "name": "Grey Hats do the FlawCon CTF ",
-        "yes_rsvp_count": 42,
-        "time": 1574881200000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -2644,7 +2835,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 851,
+    "members": 844,
     "member_pay_fee": false,
     "organizer": {
         "id": 160853242,
@@ -2717,7 +2908,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 1080,
+    "members": 1096,
     "member_pay_fee": false,
     "organizer": {
         "id": 41730382,
@@ -2750,6 +2941,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "268150682",
+        "name": "Lightning Talks",
+        "yes_rsvp_count": 30,
+        "time": 1582655400000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -2790,7 +2988,7 @@
     "visibility": "public_limited",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1807,
+    "members": 1896,
     "member_pay_fee": false,
     "who": "Power BI Enthusiasts",
     "key_photo": {
@@ -2803,10 +3001,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "kjgllryzpblc",
-        "name": "POWER BIER XMAS SPECIAL - AI capabilities in PBI / PBI with PowerApps ",
-        "yes_rsvp_count": 117,
-        "time": 1574962200000,
+        "id": "267720563",
+        "name": "Automating for AS & Power BI / Service, Architecture & Deployment in PBI",
+        "yes_rsvp_count": 97,
+        "time": 1582737300000,
         "utc_offset": 0
     },
     "category": {
@@ -2849,7 +3047,7 @@
     "visibility": "public",
     "lat": 53.47,
     "lon": -2.24,
-    "members": 1000,
+    "members": 1013,
     "member_pay_fee": false,
     "organizer": {
         "id": 13915263,
@@ -2921,7 +3119,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 701,
+    "members": 712,
     "member_pay_fee": false,
     "organizer": {
         "id": 12931837,
@@ -2994,7 +3192,7 @@
     "visibility": "public",
     "lat": 53.49,
     "lon": -2.24,
-    "members": 1118,
+    "members": 1135,
     "member_pay_fee": false,
     "organizer": {
         "id": 11632967,
@@ -3028,10 +3226,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "szdgfqyzqbxb",
+        "id": "szdgfqybcdbzb",
         "name": "MWUG Monthly Meetup",
-        "yes_rsvp_count": 15,
-        "time": 1576693800000,
+        "yes_rsvp_count": 14,
+        "time": 1582137000000,
         "utc_offset": 0
     },
     "category": {
@@ -3074,7 +3272,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1248,
+    "members": 1327,
     "member_pay_fee": false,
     "organizer": {
         "id": 14093409,
@@ -3147,7 +3345,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 1163,
+    "members": 1177,
     "member_pay_fee": false,
     "organizer": {
         "id": 32390822,
@@ -3180,13 +3378,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "266491856",
-        "name": "McrFRED 77 | Phillip Whittaker",
-        "yes_rsvp_count": 15,
-        "time": 1574879400000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -3297,7 +3488,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 378,
+    "members": 384,
     "member_pay_fee": false,
     "organizer": {
         "id": 136017342,
@@ -3330,6 +3521,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "267743206",
+        "name": "Neo4j GraphTour London",
+        "yes_rsvp_count": 2,
+        "time": 1583917200000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -3375,7 +3573,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 360,
+    "members": 369,
     "member_pay_fee": false,
     "organizer": {
         "id": 161986092,
@@ -3393,10 +3591,10 @@
     "who": "Ruby enthusiasts",
     "timezone": "Europe/London",
     "next_event": {
-        "id": "jdlpqqyzqbzb",
+        "id": "jdlpqqybcdbbc",
         "name": "Monthly Meetup",
-        "yes_rsvp_count": 0,
-        "time": 1576780200000,
+        "yes_rsvp_count": 6,
+        "time": 1582223400000,
         "utc_offset": 0
     },
     "category": {
@@ -3444,7 +3642,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1442,
+    "members": 1478,
     "member_pay_fee": false,
     "organizer": {
         "id": 61163682,
@@ -3477,6 +3675,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "268172698",
+        "name": "How to film like a pro and boost your engagement online with spectacular video!",
+        "yes_rsvp_count": 22,
+        "time": 1581530400000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 2,
         "name": "Career & Business",
@@ -3517,7 +3722,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1557,
+    "members": 1585,
     "member_pay_fee": false,
     "organizer": {
         "id": 27038062,
@@ -3550,13 +3755,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "266202742",
-        "name": "Stop Evangelizing UX (And What To Do Instead)",
-        "yes_rsvp_count": 100,
-        "time": 1575396000000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -3602,7 +3800,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 317,
+    "members": 320,
     "member_pay_fee": false,
     "organizer": {
         "id": 46144682,
@@ -3627,13 +3825,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "266487657",
-        "name": "Scala Manchester - Delivering Media Streaming at Scale",
-        "yes_rsvp_count": 46,
-        "time": 1574964000000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -3674,7 +3865,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 759,
+    "members": 760,
     "member_pay_fee": false,
     "organizer": {
         "id": 187535972,
@@ -3753,7 +3944,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 403,
+    "members": 401,
     "member_pay_fee": false,
     "organizer": {
         "id": 197716051,
@@ -3826,7 +4017,7 @@
     "visibility": "public",
     "lat": 53.49,
     "lon": -2.24,
-    "members": 3386,
+    "members": 3557,
     "member_pay_fee": false,
     "organizer": {
         "id": 10763000,
@@ -3860,10 +4051,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "zpfmhryzpbkc",
-        "name": "Funding your tech for good ",
-        "yes_rsvp_count": 170,
-        "time": 1574879400000,
+        "id": "268297803",
+        "name": "Data for good (believe it or not)",
+        "yes_rsvp_count": 56,
+        "time": 1582050600000,
         "utc_offset": 0
     },
     "category": {
@@ -3906,7 +4097,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 666,
+    "members": 701,
     "member_pay_fee": false,
     "organizer": {
         "id": 155306862,
@@ -3931,6 +4122,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "268067694",
+        "name": "Workshop: Building Accountability in Teams",
+        "yes_rsvp_count": 48,
+        "time": 1581618600000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 2,
         "name": "Career & Business",
@@ -4044,7 +4242,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 1758,
+    "members": 1782,
     "member_pay_fee": false,
     "organizer": {
         "id": 278266412,
@@ -4061,13 +4259,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "266605044",
-        "name": "ThoughtWorks Tech Radar Vol. 21",
-        "yes_rsvp_count": 1,
-        "time": 1575914400000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -4113,7 +4304,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 977,
+    "members": 1046,
     "member_pay_fee": false,
     "who": "Members",
     "group_photo": {
@@ -4133,6 +4324,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "267962616",
+        "name": "Accessibility & Inclusive Design",
+        "yes_rsvp_count": 59,
+        "time": 1580839200000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -4173,7 +4371,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.23,
-    "members": 1535,
+    "members": 1592,
     "member_pay_fee": false,
     "organizer": {
         "id": 208212717,
@@ -4246,7 +4444,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.23,
-    "members": 1821,
+    "members": 1916,
     "member_pay_fee": false,
     "organizer": {
         "id": 19843401,
@@ -4263,10 +4461,10 @@
     },
     "who": "Members",
     "group_photo": {
-        "id": 211246072,
-        "highres_link": "https://secure.meetupstatic.com/photos/event/b/3/f/8/highres_211246072.jpeg",
-        "photo_link": "https://secure.meetupstatic.com/photos/event/b/3/f/8/600_211246072.jpeg",
-        "thumb_link": "https://secure.meetupstatic.com/photos/event/b/3/f/8/thumb_211246072.jpeg",
+        "id": 487969464,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/c/1/3/8/highres_487969464.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/c/1/3/8/600_487969464.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/c/1/3/8/thumb_487969464.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
     },
@@ -4280,10 +4478,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "266616082",
-        "name": "AWS UG North #34 - Werner's keynote from re:invent (+ Christmas social stuff!)",
-        "yes_rsvp_count": 34,
-        "time": 1575561600000,
+        "id": "268084643",
+        "name": "AWS UG North #36",
+        "yes_rsvp_count": 44,
+        "time": 1582826400000,
         "utc_offset": 0
     },
     "category": {
@@ -4313,7 +4511,7 @@
     "status": "active",
     "link": "https://www.meetup.com/Code-Nation/",
     "urlname": "Code-Nation",
-    "description": "<p>You should join if you love technology, all things digital and want to keep learning new things, preferably over pizza and cookies (not necessarily at the same time.)</p>\n<p>This group will bring learning experiences, talks, demos, all sorts - and we'd love for you to be a part of it! You could be an experienced developer or someone who is just getting started and working out if tech is for them. Either way, you'll meet great people, join a brand new digital community and learn some top stuff along the way.</p>",
+    "description": "<p>You should join if you love technology, all things digital and want to keep learning new things - preferably over pizza and cookies (not necessarily at the same time.)</p>\n<p>This group will bring learning experiences, talks, demos, all sorts - and we'd love for you to be a part of it! You could be an experienced developer or someone who is just getting started and working out if tech is for them. Either way, you'll meet great people, join a brand new digital community and learn some top stuff along the way.</p>",
     "created": 1511953903000,
     "city": "Manchester",
     "untranslated_city": "Manchester",
@@ -4326,7 +4524,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 988,
+    "members": 1066,
     "member_pay_fee": false,
     "organizer": {
         "id": 95530192,
@@ -4341,7 +4539,7 @@
             "base_url": "https://secure.meetupstatic.com"
         }
     },
-    "who": "Members",
+    "who": "Coders",
     "key_photo": {
         "id": 482151512,
         "highres_link": "https://secure.meetupstatic.com/photos/event/c/9/3/8/highres_482151512.jpeg",
@@ -4351,6 +4549,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "268235645",
+        "name": "How to become a Software Developer :) ",
+        "yes_rsvp_count": 17,
+        "time": 1580817600000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -4391,7 +4596,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 281,
+    "members": 279,
     "member_pay_fee": false,
     "organizer": {
         "id": 184638771,
@@ -4440,7 +4645,7 @@
     "visibility": "public",
     "lat": 53.47,
     "lon": -2.29,
-    "members": 1203,
+    "members": 1280,
     "member_pay_fee": false,
     "organizer": {
         "id": 118178642,
@@ -4489,10 +4694,10 @@
 }, {
     "id": 19059079,
     "name": "Manchester Startup Ecosystem by StartupBlink",
-    "status": "active",
+    "status": "grace",
     "link": "https://www.meetup.com/StartupBlink-Manchester/",
     "urlname": "StartupBlink-Manchester",
-    "description": "<p>Do you want to meet like-minded entrepreneurs? Grow your project? And even find co-founders or partners? Join this startup meetup group!</p>\n<p>This meetup facilitates casual networking events, startup lectures, and weekly online pitching events. We also feature events offered by the community (that’s you!).</p>\n<p>Partner with us</p>\n<p>Would you like to take a key role in this meetup, and brand your organization as a leader of your local startup ecosystem? StartupBlink invites founders, accelerators, coworking spaces and leading startup organizations to become StartupBlink City Partners. This partnership comes with benefits that include a feature in our annual reports, global startup ecosystem map and all 90 of our meetups around the world, including this one. Click here to learn more: <a href=\"https://citypartner.startupblink.com/\">https://citypartner.startupblink.com/</a>&nbsp;</p>\n<p>Our activities</p>\n<p>- “Weekend Coffee” networking initiative is happening in dozens of cities around the world. This is your chance to make new connections, share advice, and brainstorm with like-minded entrepreneurs. The events are led by volunteers and our City Partners. If you would like to help organizing those events, feel free to reach us at meetup@startupblink.com</p>\n<p>- “Startup Pitching Online” is our flagship weekly webinar happening on Wednesdays. Here you can pitch your startup and get feedback from our expert mentors and dozens of entrepreneurs. And if you do not feel like pitching yet, join us to watch other pitches (who knows, maybe this will be a stepping stone to build an extraordinary startup project and prepare for your own future pitch?)&nbsp;</p>\n<p>What is StartupBlink?</p>\n<p>StartupBlink is a global startup ecosystem map and research center. You can add your startup, coworking space or organization for free:&nbsp;<a href=\"https://www.startupblink.com/manchester-startups\">https://www.startupblink.com/manchester-startups</a></p>\n<p>StartupBlink runs 90 local Meetup chapters with over 50,000 entrepreneurs globally. In addition, StartupBlink is ranking the startup ecosystems of over 100 countries and 1,000 cities, in a report downloaded by tens of thousands of decision makers. Here is a link to download our latest annual report and find out where your city and country are ranked: <a href=\"https://report.startupblink.com\">https://report.startupblink.com</a></p>\n<p>StartupBlink works with dozens of municipalities and government organizations to develop and promote their local startup ecosystems. If you are a public sector ecosystem developer, let’s work together: <a href=\"https://ecosystempartnership.startupblink.com\">https://ecosystempartnership.startupblink.com</a></p>\n<p>- - -&nbsp;</p>\n<br>\n<p>We love the coworking revolution, and used spaces in dozens of countries as a way to network and increase productivity. Members of the group are eligible for up to 15% discount from our partners at WeWork, the world’s leading coworking network! <a href=\"https://wework.startupblink.com/\">https://wework.startupblink.com/</a></p>\n<p>This group is partnered with Findexable - researching fintech companies around the world and publishing the first real-time ranking of all cities where there’s a cluster of fintech companies <a href=\"https://findexable.com/\">https://findexable.com/</a><br></p>\n<br>\n<p><span>- - -</span></p>\n<p><span>All meetups are hosted in accordance with the terms of use posted on </span><a href=\"https://www.startupblink.com/blog/terms-conditions/\">https://www.startupblink.com/blog/terms-conditions/</a> <br></p>",
+    "description": "<p>Do you want to meet like-minded entrepreneurs? Grow your project? And even find co-founders or partners? Join this startup meetup group!</p>\n<p>This meetup facilitates casual networking events, startup lectures, and weekly online pitching events. We also feature events offered by the community (that’s you!).</p>\n<p>Partner with us</p>\n<p>Would you like to take a key role in this meetup, and brand your organization as a leader of your local startup ecosystem? StartupBlink invites founders, accelerators, coworking spaces and leading startup organizations to become StartupBlink City Partners. This partnership comes with benefits that include a feature in our annual reports, global startup ecosystem map and all 90 of our meetups around the world, including this one. Click here to learn more: <a href=\"https://citypartner.startupblink.com/\">https://citypartner.startupblink.com/</a>&nbsp;</p>\n<p>Our activities</p>\n<p>- “Weekend Coffee” networking initiative is happening in dozens of cities around the world. This is your chance to make new connections, share advice, and brainstorm with like-minded entrepreneurs. The events are led by volunteers and our City Partners. If you would like to help organizing those events, feel free to reach us at meetup@startupblink.com</p>\n<p>- “Startup Pitching Online” is our flagship weekly webinar happening on Wednesdays. Here you can pitch your startup and get feedback from our expert mentors and dozens of entrepreneurs. And if you do not feel like pitching yet, join us to watch other pitches (who knows, maybe this will be a stepping stone to build an extraordinary startup project and prepare for your own future pitch?)&nbsp;</p>\n<p>What is StartupBlink?</p>\n<p>StartupBlink is a global startup ecosystem map and research center. You can add your startup, coworking space or organization for free:&nbsp;<a href=\"https://www.startupblink.com/manchester-startups\">https://www.startupblink.com/manchester-startups</a></p>\n<p>StartupBlink runs 90 local Meetup chapters with over 50,000 entrepreneurs globally. In addition, StartupBlink is ranking the startup ecosystems of over 100 countries and 1,000 cities, in a report downloaded by tens of thousands of decision makers. Here is a link to download our latest annual report and find out where your city and country are ranked: <a href=\"https://report.startupblink.com\">https://report.startupblink.com</a></p>\n<p>StartupBlink works with dozens of municipalities and government organizations to develop and promote their local startup ecosystems. If you are a public sector ecosystem developer, let’s work together: <a href=\"https://ecosystempartnership.startupblink.com\">https://ecosystempartnership.startupblink.com</a></p>\n<p>- - -&nbsp;</p>\n<p>This group is partnered with Findexable - researching fintech companies around the world and publishing the first real-time ranking of all cities where there’s a cluster of fintech companies <a href=\"https://findexable.com/\">https://findexable.com/</a> <br></p>\n<br>\n<p><span>- - -</span></p>\n<p><span>All meetups are hosted in accordance with the terms of use posted on </span><a href=\"https://www.startupblink.com/blog/terms-conditions/\">https://www.startupblink.com/blog/terms-conditions/</a> <br></p>",
     "created": 1445774859000,
     "city": "Manchester",
     "untranslated_city": "Manchester",
@@ -4505,17 +4710,17 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 478,
+    "members": 500,
     "member_pay_fee": false,
     "organizer": {
-        "id": 56735662,
-        "name": "StartupBlink Global M.",
-        "bio": "We are the team of www.StartupBlink.com, the global startup ecosystem map. We run dozens of meetups all over the world, and would love to hear from you if you want to join our program of Startup Community Leaders. https://goo.gl/T7oAZ4",
+        "id": 246341887,
+        "name": "StartupBlink M.",
+        "bio": "",
         "photo": {
-            "id": 249017436,
-            "highres_link": "https://secure.meetupstatic.com/photos/member/4/4/1/c/highres_249017436.jpeg",
-            "photo_link": "https://secure.meetupstatic.com/photos/member/4/4/1/c/member_249017436.jpeg",
-            "thumb_link": "https://secure.meetupstatic.com/photos/member/4/4/1/c/thumb_249017436.jpeg",
+            "id": 274474081,
+            "highres_link": "https://secure.meetupstatic.com/photos/member/8/5/2/1/highres_274474081.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/member/8/5/2/1/member_274474081.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/member/8/5/2/1/thumb_274474081.jpeg",
             "type": "member",
             "base_url": "https://secure.meetupstatic.com"
         }
@@ -4539,10 +4744,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "xrvglryzpbkc",
-        "name": "Online Global Startup Pitching Event",
-        "yes_rsvp_count": 7,
-        "time": 1574877600000,
+        "id": "cxnfcrybcdbfc",
+        "name": "Weekend Coffee for Startup People",
+        "yes_rsvp_count": 3,
+        "time": 1582457400000,
         "utc_offset": 0
     },
     "category": {
@@ -4565,12 +4770,6 @@
             "base_url": "https://secure.meetupstatic.com"
         },
         "category_ids": [2]
-    },
-    "pro_network": {
-        "name": "StartupBlink",
-        "urlname": "startupblink",
-        "number_of_groups": 45,
-        "network_url": "https://www.meetup.com/pro/startupblink/"
     }
 }, {
     "id": 4396922,
@@ -4591,7 +4790,7 @@
     "visibility": "public",
     "lat": 53.49,
     "lon": -2.24,
-    "members": 273,
+    "members": 279,
     "member_pay_fee": false,
     "organizer": {
         "id": 11408007,
@@ -4624,10 +4823,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "266429124",
-        "name": "NWDUG December 2019",
-        "yes_rsvp_count": 7,
-        "time": 1576004400000,
+        "id": "267929176",
+        "name": "NWDUG February 2020",
+        "yes_rsvp_count": 6,
+        "time": 1581447600000,
         "utc_offset": 0
     },
     "category": {
@@ -4670,7 +4869,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.23,
-    "members": 194,
+    "members": 193,
     "member_pay_fee": false,
     "organizer": {
         "id": 154568072,
@@ -4727,7 +4926,7 @@
     "pro_network": {
         "name": ".NET Foundation",
         "urlname": "dotnet",
-        "number_of_groups": 340,
+        "number_of_groups": 346,
         "network_url": "https://www.meetup.com/pro/dotnet/"
     }
 }, {
@@ -4749,7 +4948,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 609,
+    "members": 647,
     "member_pay_fee": false,
     "organizer": {
         "id": 37948482,
@@ -4819,7 +5018,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.23,
-    "members": 729,
+    "members": 754,
     "member_pay_fee": false,
     "organizer": {
         "id": 237473208,
@@ -4852,6 +5051,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "268143153",
+        "name": "Meetup 10: How Blockchain is changing gaming!      Talks + Q&A",
+        "yes_rsvp_count": 41,
+        "time": 1581445800000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -4876,7 +5082,7 @@
     "pro_network": {
         "name": "#BUIDL Network ",
         "urlname": "BUIDL",
-        "number_of_groups": 85,
+        "number_of_groups": 84,
         "network_url": "https://www.meetup.com/pro/BUIDL/"
     }
 }, {
@@ -4908,7 +5114,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1003,
+    "members": 1028,
     "member_pay_fee": false,
     "organizer": {
         "id": 236559462,
@@ -4933,13 +5139,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "266725658",
-        "name": "GCP User Group North West #8 - Christmas special and Google Next update",
-        "yes_rsvp_count": 26,
-        "time": 1575568800000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -4964,7 +5163,7 @@
     "pro_network": {
         "name": "GDG",
         "urlname": "gdg",
-        "number_of_groups": 960,
+        "number_of_groups": 945,
         "network_url": "https://www.meetup.com/pro/gdg/"
     }
 }, {
@@ -4986,18 +5185,25 @@
     "visibility": "public",
     "lat": 53.41,
     "lon": -2.21,
-    "members": 596,
+    "members": 595,
     "member_pay_fee": false,
     "who": "Entrepreneurs Work & Social",
     "key_photo": {
-        "id": 444576651,
-        "highres_link": "https://secure.meetupstatic.com/photos/event/8/f/2/b/highres_444576651.jpeg",
-        "photo_link": "https://secure.meetupstatic.com/photos/event/8/f/2/b/600_444576651.jpeg",
-        "thumb_link": "https://secure.meetupstatic.com/photos/event/8/f/2/b/thumb_444576651.jpeg",
+        "id": 487846748,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/b/6/9/c/highres_487846748.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/b/6/9/c/600_487846748.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/b/6/9/c/thumb_487846748.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "268112543",
+        "name": "Hollingworth Lake Circular Walk & Lunch (MUST BOOK DIRECT WITH SOCIAL CIRCLE)",
+        "yes_rsvp_count": 1,
+        "time": 1581243300000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 2,
         "name": "Career & Business",
@@ -5038,7 +5244,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 320,
+    "members": 315,
     "member_pay_fee": false,
     "organizer": {
         "id": 103306542,
@@ -5190,7 +5396,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 785,
+    "members": 792,
     "member_pay_fee": false,
     "organizer": {
         "id": 221179981,
@@ -5224,10 +5430,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "lvgklrybccbjb",
+        "id": "lvgklrybcdbfb",
         "name": "NSManchester",
-        "yes_rsvp_count": 2,
-        "time": 1578333600000,
+        "yes_rsvp_count": 4,
+        "time": 1581357600000,
         "utc_offset": 0
     },
     "category": {
@@ -5270,7 +5476,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1043,
+    "members": 1111,
     "member_pay_fee": false,
     "organizer": {
         "id": 237417539,
@@ -5343,7 +5549,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 3956,
+    "members": 4099,
     "member_pay_fee": false,
     "who": "Experts",
     "group_photo": {
@@ -5364,10 +5570,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "266430669",
-        "name": "ExpertTalks - Save The Date",
-        "yes_rsvp_count": 11,
-        "time": 1579629600000,
+        "id": "266433635",
+        "name": "Expert Talks Manchester, part of Digital City Festival",
+        "yes_rsvp_count": 48,
+        "time": 1584036000000,
         "utc_offset": 0
     },
     "category": {
@@ -5410,7 +5616,7 @@
     "visibility": "public",
     "lat": 53.47,
     "lon": -2.23,
-    "members": 943,
+    "members": 983,
     "member_pay_fee": false,
     "organizer": {
         "id": 203204927,
@@ -5444,10 +5650,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "266255511",
-        "name": "XMAS PARTY with Tech for Good Live, Open Data Manchester, McrFRED & friends",
-        "yes_rsvp_count": 1,
-        "time": 1576002600000,
+        "id": "267816661",
+        "name": "Meet Amazing Women in Data",
+        "yes_rsvp_count": 86,
+        "time": 1581618600000,
         "utc_offset": 0
     },
     "category": {
@@ -5490,7 +5696,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 969,
+    "members": 970,
     "member_pay_fee": false,
     "organizer": {
         "id": 32465262,
@@ -5563,7 +5769,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.23,
-    "members": 834,
+    "members": 849,
     "member_pay_fee": false,
     "organizer": {
         "id": 110056732,
@@ -5596,10 +5802,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "cnlljryzqbgb",
+        "id": "cnlljrybcdbhb",
         "name": "Playtest Games",
-        "yes_rsvp_count": 9,
-        "time": 1575484200000,
+        "yes_rsvp_count": 8,
+        "time": 1580927400000,
         "utc_offset": 0
     },
     "category": {
@@ -5642,7 +5848,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 606,
+    "members": 649,
     "member_pay_fee": false,
     "organizer": {
         "id": 223010722,
@@ -5667,13 +5873,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "266199897",
-        "name": "Build a Content Managed Blog with Gridsome & Netlify",
-        "yes_rsvp_count": 29,
-        "time": 1574965800000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -5714,7 +5913,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 2041,
+    "members": 2084,
     "member_pay_fee": false,
     "who": "Members",
     "group_photo": {
@@ -5735,10 +5934,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "266753531",
-        "name": "2019 Retrospective and Christmas Celebration!",
-        "yes_rsvp_count": 22,
-        "time": 1576000800000,
+        "id": "268237312",
+        "name": "Essentials Meetup - What is Testing?",
+        "yes_rsvp_count": 55,
+        "time": 1580839200000,
         "utc_offset": 0
     },
     "category": {
@@ -5791,7 +5990,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 855,
+    "members": 854,
     "member_pay_fee": false,
     "organizer": {
         "id": 64741932,
@@ -5856,7 +6055,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 200,
+    "members": 206,
     "member_pay_fee": false,
     "organizer": {
         "id": 20110521,
@@ -5882,10 +6081,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "265085275",
-        "name": "#022 TBD",
+        "id": "267987337",
+        "name": "#022 TBC",
         "yes_rsvp_count": 4,
-        "time": 1580238000000,
+        "time": 1582657200000,
         "utc_offset": 0
     },
     "category": {
@@ -5954,10 +6153,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "gdtcpnyzpbkc",
+        "id": "gdtcpnybcdbhb",
         "name": "Meet Up & RSVP",
         "yes_rsvp_count": 1,
-        "time": 1574877600000,
+        "time": 1580925600000,
         "utc_offset": 0
     },
     "category": {
@@ -5982,62 +6181,10 @@
         "category_ids": [34]
     }
 }, {
-    "id": 22826283,
-    "name": "North West Bitcoin Meetup",
-    "status": "active",
-    "link": "https://www.meetup.com/North-West-Bitcoin-Meetup/",
-    "urlname": "North-West-Bitcoin-Meetup",
-    "description": "<p>BitCoin is something that has been quietly developed since 2009, and its implications on the financing world are incredible, but what is BitCoin?</p>\n<p>We can tell you what it is and how you can get in on one of the greatest developments and opportunities in history.</p>",
-    "created": 1489061427000,
-    "city": "Walton",
-    "untranslated_city": "Walton",
-    "country": "GB",
-    "localized_country_name": "United Kingdom",
-    "localized_location": "Walton, United Kingdom",
-    "region2": "Cheshire",
-    "state": "C5",
-    "join_mode": "open",
-    "visibility": "public",
-    "lat": 53.37,
-    "lon": -2.59,
-    "members": 317,
-    "member_pay_fee": false,
-    "organizer": {
-        "id": 182685243,
-        "name": "Daniel B.",
-        "bio": "Helping people build wealth through education and time leverage.",
-        "photo": {
-            "id": 272365892,
-            "highres_link": "https://secure.meetupstatic.com/photos/member/6/5/2/4/highres_272365892.jpeg",
-            "photo_link": "https://secure.meetupstatic.com/photos/member/6/5/2/4/member_272365892.jpeg",
-            "thumb_link": "https://secure.meetupstatic.com/photos/member/6/5/2/4/thumb_272365892.jpeg",
-            "type": "member",
-            "base_url": "https://secure.meetupstatic.com"
-        }
-    },
-    "who": "Members",
-    "timezone": "Europe/London",
-    "category": {
-        "id": 34,
-        "name": "Tech",
-        "shortname": "tech",
-        "sort_name": "Tech"
-    },
-    "meta_category": {
-        "id": 292,
-        "shortname": "tech",
-        "name": "Tech",
-        "sort_name": "Tech",
-        "photo": {
-            "id": 450131949,
-            "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-            "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-            "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
-            "type": "event",
-            "base_url": "https://secure.meetupstatic.com"
-        },
-        "category_ids": [34]
-    }
+    "errors": [{
+        "code": "group_error",
+        "message": "Invalid group urlname North-West-Bitcoin-Meetup"
+    }]
 }, {
     "id": 26781188,
     "name": "Windows Management User Group - Manchester",
@@ -6057,7 +6204,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 37,
+    "members": 38,
     "member_pay_fee": false,
     "organizer": {
         "id": 238520770,
@@ -6082,10 +6229,10 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
-        "id": 466646963,
-        "highres_link": "https://secure.meetupstatic.com/photos/event/6/9/5/3/highres_466646963.jpeg",
-        "photo_link": "https://secure.meetupstatic.com/photos/event/6/9/5/3/600_466646963.jpeg",
-        "thumb_link": "https://secure.meetupstatic.com/photos/event/6/9/5/3/thumb_466646963.jpeg",
+        "id": 488204152,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/a/c/7/8/highres_488204152.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/a/c/7/8/600_488204152.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/a/c/7/8/thumb_488204152.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
     },
@@ -6203,7 +6350,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 581,
+    "members": 587,
     "member_pay_fee": false,
     "organizer": {
         "id": 114766932,
@@ -6260,7 +6407,7 @@
     "pro_network": {
         "name": "Docker User Group",
         "urlname": "docker",
-        "number_of_groups": 201,
+        "number_of_groups": 206,
         "network_url": "https://www.meetup.com/pro/docker/"
     }
 }, {
@@ -6326,7 +6473,7 @@
     "pro_network": {
         "name": "OpenStack Foundation (OSF)",
         "urlname": "osf",
-        "number_of_groups": 36,
+        "number_of_groups": 38,
         "network_url": "https://www.meetup.com/pro/osf/"
     }
 }, {
@@ -6348,7 +6495,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1533,
+    "members": 1644,
     "member_pay_fee": false,
     "organizer": {
         "id": 198467493,
@@ -6382,10 +6529,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "266405188",
-        "name": "Mentorship circle",
-        "yes_rsvp_count": 36,
-        "time": 1575568800000,
+        "id": "268349173",
+        "name": "4th Birthday Event  - \"Think Equal, Build Smart, Innovate for Change\"",
+        "yes_rsvp_count": 66,
+        "time": 1583173800000,
         "utc_offset": 0
     },
     "category": {
@@ -6428,7 +6575,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 163,
+    "members": 162,
     "member_pay_fee": false,
     "who": "Members",
     "key_photo": {
@@ -6573,7 +6720,7 @@
     "visibility": "public",
     "lat": 53.47,
     "lon": -2.23,
-    "members": 420,
+    "members": 439,
     "member_pay_fee": false,
     "who": "Members",
     "group_photo": {
@@ -6594,10 +6741,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "265373203",
-        "name": "R-Ladies Manchester Christmas Social",
-        "yes_rsvp_count": 28,
-        "time": 1575397800000,
+        "id": "267294690",
+        "name": "R-Ladies Manchester Fun with Functions!",
+        "yes_rsvp_count": 34,
+        "time": 1580841000000,
         "utc_offset": 0
     },
     "category": {
@@ -6624,7 +6771,7 @@
     "pro_network": {
         "name": "R-Ladies",
         "urlname": "rladies",
-        "number_of_groups": 173,
+        "number_of_groups": 181,
         "network_url": "https://www.meetup.com/pro/rladies/"
     }
 }, {
@@ -6646,7 +6793,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 536,
+    "members": 549,
     "member_pay_fee": false,
     "organizer": {
         "id": 210793267,
@@ -6680,10 +6827,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "tcljtqyzqbpb",
+        "id": "tcljtqybcdbqb",
         "name": "Manchester Go meetup",
-        "yes_rsvp_count": 5,
-        "time": 1576089000000,
+        "yes_rsvp_count": 2,
+        "time": 1581532200000,
         "utc_offset": 0
     },
     "category": {
@@ -6710,7 +6857,7 @@
     "pro_network": {
         "name": "Go Developers",
         "urlname": "go",
-        "number_of_groups": 165,
+        "number_of_groups": 173,
         "network_url": "https://www.meetup.com/pro/go/"
     }
 }, {
@@ -6732,7 +6879,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 2041,
+    "members": 2084,
     "member_pay_fee": false,
     "organizer": {
         "id": 4788073,
@@ -6766,10 +6913,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "266753531",
-        "name": "2019 Retrospective and Christmas Celebration!",
-        "yes_rsvp_count": 22,
-        "time": 1576000800000,
+        "id": "268237312",
+        "name": "Essentials Meetup - What is Testing?",
+        "yes_rsvp_count": 55,
+        "time": 1580839200000,
         "utc_offset": 0
     },
     "category": {
@@ -6852,6 +6999,12 @@
             "base_url": "https://secure.meetupstatic.com"
         },
         "category_ids": [34]
+    },
+    "pro_network": {
+        "name": "Redis ",
+        "urlname": "RedisCommunityMeetups",
+        "number_of_groups": 44,
+        "network_url": "https://www.meetup.com/pro/RedisCommunityMeetups/"
     }
 }, {
     "id": 27596476,
@@ -6937,7 +7090,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1308,
+    "members": 1316,
     "member_pay_fee": false,
     "organizer": {
         "id": 63245342,
@@ -7010,7 +7163,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 452,
+    "members": 469,
     "member_pay_fee": false,
     "organizer": {
         "id": 62722322,
@@ -7075,11 +7228,11 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1251,
+    "members": 1319,
     "member_pay_fee": false,
     "organizer": {
         "id": 177206752,
-        "name": "John",
+        "name": "John C.",
         "bio": ""
     },
     "who": "Members",
@@ -7101,10 +7254,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "266363329",
-        "name": "PyDataMCR - Hands On Data Visualization - BYOL(Bring your own laptops!)",
-        "yes_rsvp_count": 68,
-        "time": 1574877600000,
+        "id": "267346779",
+        "name": "PyData Manchester - Code Night",
+        "yes_rsvp_count": 38,
+        "time": 1580925600000,
         "utc_offset": 0
     },
     "category": {
@@ -7131,7 +7284,7 @@
     "pro_network": {
         "name": "PyData",
         "urlname": "pydata",
-        "number_of_groups": 155,
+        "number_of_groups": 166,
         "network_url": "https://www.meetup.com/pro/pydata/"
     }
 }, {
@@ -7163,7 +7316,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 133,
+    "members": 134,
     "member_pay_fee": false,
     "organizer": {
         "id": 221715600,
@@ -7241,7 +7394,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.23,
-    "members": 419,
+    "members": 421,
     "member_pay_fee": false,
     "organizer": {
         "id": 248340329,
@@ -7316,7 +7469,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 331,
+    "members": 369,
     "member_pay_fee": false,
     "organizer": {
         "id": 289534868,
@@ -7349,13 +7502,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "265738719",
-        "name": "Elastic Manchester January 2020",
-        "yes_rsvp_count": 27,
-        "time": 1580409000000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -7380,7 +7526,7 @@
     "pro_network": {
         "name": "Elastic",
         "urlname": "elastic",
-        "number_of_groups": 122,
+        "number_of_groups": 130,
         "network_url": "https://www.meetup.com/pro/elastic/"
     }
 }, {
@@ -7407,7 +7553,7 @@
     "visibility": "public",
     "lat": 53.49,
     "lon": -2.24,
-    "members": 182,
+    "members": 181,
     "member_pay_fee": false,
     "organizer": {
         "id": 99473492,
@@ -7480,7 +7626,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 93,
+    "members": 104,
     "member_pay_fee": false,
     "organizer": {
         "id": 36268302,
@@ -7513,13 +7659,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "266606866",
-        "name": "Postgres Manchester Meet-up Jan 2020",
-        "yes_rsvp_count": 4,
-        "time": 1579802400000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -7619,7 +7758,7 @@
     "status": "active",
     "link": "https://www.meetup.com/You-Equal-Tech-North/",
     "urlname": "You-Equal-Tech-North",
-    "description": "<p>Bringing #YouEqualTech to the North</p>\n<p>Mortimer Spinks started the conversation on Diversity in Tech when we launched the tech industry’s first Women in Tech Survey, in partnership with Computer Weekly. Since then the conversation has evolved, moving away from diversity seen only through a gender lens; addressing the need for diverse tech teams and inclusive work places where people feel they fully belong. </p>\n<p>We believe in the power of community – You Equal Tech started 2 years ago in London and is slowly becoming a leading community making change happen through their meetups and network. With over 3000 people in the group we felt it was time to take You Equal Tech to the North and expand the reach and impact. </p>\n<p>The purpose of this group is to bring together people in technology, to continue this incredibly important conversation. Change doesn’t start top down, it has to happen at every level across every function. Community led initiatives are incredibly effective at having wide reaching results and helping to pave the way through learning, talking and hearing what about works/doesn’t work also having the opportunity to hear and see role models from under-represented groups in tech.</p>\n<p><span>The purpose of this meetup is to connect the technology and digital industry to the outside world!</span> <br></p>\n<p>We aim to:</p>\n<p>• Dispel myths and incorrect perceptions of what it’s like to work in tech and digital.</p>\n<p>• Educate and inform the various routes into technology and digital career</p>\n<p>• Work towards gender diversity in tech</p>\n<p>• Close the skills gap!</p>\n<p>Join this group if:</p>\n<p>• You work in technology or digital and are interested in working towards an inclusive and diverse industry</p>\n<p>• You do not work in a technical role but are interested in a possible career within the industry</p>\n<p>We will be holding regular meet up events and each one will aim to provide practical advice on driving diversity within the technology industry.</p>\n<p>If you are interested in being a speaker at one of our events please get in touch with lara.hanson@mortimerspinks.com&nbsp;</p>\n<p>You can also share ideas, initiatives and tips on our #YetNorth <a href=\"https://www.linkedin.com/groups/12211220/\">LinkedIn group</a>.</p>\n<p>It’s super important to us that everyone feels welcome at #YETNorth events, so please familiarise yourselves with our&nbsp;<a href=\"https://www.meetup.com/You-Equal-Tech-North/pages/28531977/Code_of_Conduct/\">Code of Conduct</a><span>.</span></p>",
+    "description": "<p>Bringing #YouEqualTech to the North</p>\n<p>Spinks started the conversation on Diversity in Tech when we launched the tech industry’s first Women in Tech Survey, in partnership with Computer Weekly. Since then the conversation has evolved, moving away from diversity seen only through a gender lens; addressing the need for diverse tech teams and inclusive work places where people feel they fully belong. </p>\n<p>We believe in the power of community – #YouEqualTech started 2 years ago in London and is slowly becoming a leading community making change happen through their meetups and network. With over 3000 people in the group we felt it was time to take #YouEqualTech to the North and expand the reach and impact. </p>\n<p>The purpose of this group is to bring together people in technology, to continue this incredibly important conversation. Change doesn’t start top down, it has to happen at every level across every function. Community led initiatives are incredibly effective at having wide reaching results and helping to pave the way through learning, talking and hearing what about works/doesn’t work also having the opportunity to hear and see role models from under-represented groups in tech.</p>\n<p><span>The purpose of this meetup is to connect the technology and digital industry to the outside world!</span> <br></p>\n<p>We aim to:</p>\n<p>• Dispel myths and incorrect perceptions of what it’s like to work in tech and digital.</p>\n<p>• Educate and inform the various routes into technology and digital career</p>\n<p>• Work towards gender diversity in tech</p>\n<p>• Close the skills gap!</p>\n<p>Join this group if:</p>\n<p>• You work in technology or digital and are interested in working towards an inclusive and diverse industry</p>\n<p>• You do not work in a technical role but are interested in a possible career within the industry</p>\n<p>We will be holding regular meet up events and each one will aim to provide practical advice on driving diversity within the technology industry.</p>\n<p>If you are interested in being a speaker at one of our events please get in touch with lara.hanson@wearespinks.com&nbsp;</p>\n<p>You can also share ideas, initiatives and tips on our #YetNorth <a href=\"https://www.linkedin.com/groups/12211220/\">LinkedIn group</a>.</p>\n<p>It’s super important to us that everyone feels welcome at #YETNorth events, so please familiarise yourselves with our&nbsp;<a href=\"https://www.meetup.com/You-Equal-Tech-North/pages/28531977/Code_of_Conduct/\">Code of Conduct</a><span>.</span></p>",
     "created": 1507288658000,
     "city": "Manchester",
     "untranslated_city": "Manchester",
@@ -7632,7 +7771,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 506,
+    "members": 623,
     "member_pay_fee": false,
     "who": "Members",
     "group_photo": {
@@ -7652,6 +7791,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "267247988",
+        "name": "Building Diverse Teams",
+        "yes_rsvp_count": 120,
+        "time": 1581012000000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -7697,7 +7843,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 832,
+    "members": 847,
     "member_pay_fee": false,
     "organizer": {
         "id": 209727251,
@@ -7722,21 +7868,14 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
-        "id": 486164761,
-        "highres_link": "https://secure.meetupstatic.com/photos/event/a/e/d/9/highres_486164761.jpeg",
-        "photo_link": "https://secure.meetupstatic.com/photos/event/a/e/d/9/600_486164761.jpeg",
-        "thumb_link": "https://secure.meetupstatic.com/photos/event/a/e/d/9/thumb_486164761.jpeg",
+        "id": 488322504,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/a/6/0/8/highres_488322504.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/a/6/0/8/600_488322504.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/a/6/0/8/thumb_488322504.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "265737340",
-        "name": "'Round Seven' - The Big Techy End of Decade Quiz ",
-        "yes_rsvp_count": 61,
-        "time": 1575568800000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -7777,7 +7916,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 544,
+    "members": 550,
     "member_pay_fee": false,
     "organizer": {
         "id": 161986092,
@@ -7850,7 +7989,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1100,
+    "members": 1113,
     "member_pay_fee": false,
     "organizer": {
         "id": 183969321,
@@ -7875,6 +8014,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "268296759",
+        "name": "Manchester Tech - Every Bee Matters ",
+        "yes_rsvp_count": 11,
+        "time": 1581249600000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -7897,101 +8043,15 @@
         "category_ids": [34]
     }
 }, {
-    "id": 28344715,
-    "name": "Manchester Mobile Development Meetup",
-    "status": "frozen",
-    "link": "https://www.meetup.com/Manchester-Mobile-Development-Meetup/",
-    "urlname": "Manchester-Mobile-Development-Meetup",
-    "description": "<p>The Manchester Mobile Meetup group is a peer network for those involved in mobile development locally to get together, share insight and discuss challenges whether that is tied to code, design, user experience, testing, project management, product ownership, marketing and beyond.&nbsp;</p>\n<p><span>The first event is being held at e3creative - and this could be the start of many. If you'd like to get involved, send us a message and come out to participate on&nbsp;17 May!&nbsp;</span> <br></p>\n<p><span> <br></span></p>\n<p><span> <br></span></p>",
-    "created": 1525181442000,
-    "city": "Manchester",
-    "untranslated_city": "Manchester",
-    "country": "GB",
-    "localized_country_name": "United Kingdom",
-    "localized_location": "Manchester, United Kingdom",
-    "region2": "Greater Manchester",
-    "state": "18",
-    "join_mode": "open",
-    "visibility": "public",
-    "lat": 53.48,
-    "lon": -2.25,
-    "members": 118,
-    "member_pay_fee": false,
-    "who": "Members",
-    "timezone": "Europe/London",
-    "category": {
-        "id": 34,
-        "name": "Tech",
-        "shortname": "tech",
-        "sort_name": "Tech"
-    },
-    "meta_category": {
-        "id": 292,
-        "shortname": "tech",
-        "name": "Tech",
-        "sort_name": "Tech",
-        "photo": {
-            "id": 450131949,
-            "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-            "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-            "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
-            "type": "event",
-            "base_url": "https://secure.meetupstatic.com"
-        },
-        "category_ids": [34]
-    }
+    "errors": [{
+        "code": "group_error",
+        "message": "Invalid group urlname Manchester-Mobile-Development-Meetup"
+    }]
 }, {
-    "id": 28208295,
-    "name": "CRUMUG UK North West",
-    "status": "frozen",
-    "link": "https://www.meetup.com/CRUMUG-UK-North-West/",
-    "urlname": "CRUMUG-UK-North-West",
-    "description": "<p>For Dynamics 365 and CRM professionals in the NW of England.</p>",
-    "created": 1524090452000,
-    "city": "Manchester",
-    "untranslated_city": "Manchester",
-    "country": "GB",
-    "localized_country_name": "United Kingdom",
-    "localized_location": "Manchester, United Kingdom",
-    "region2": "Greater Manchester",
-    "state": "18",
-    "join_mode": "open",
-    "visibility": "public",
-    "lat": 53.48,
-    "lon": -2.25,
-    "members": 34,
-    "member_pay_fee": false,
-    "who": "Members",
-    "key_photo": {
-        "id": 472406285,
-        "highres_link": "https://secure.meetupstatic.com/photos/event/6/6/a/d/highres_472406285.jpeg",
-        "photo_link": "https://secure.meetupstatic.com/photos/event/6/6/a/d/600_472406285.jpeg",
-        "thumb_link": "https://secure.meetupstatic.com/photos/event/6/6/a/d/thumb_472406285.jpeg",
-        "type": "event",
-        "base_url": "https://secure.meetupstatic.com"
-    },
-    "timezone": "Europe/London",
-    "category": {
-        "id": 34,
-        "name": "Tech",
-        "shortname": "tech",
-        "sort_name": "Tech"
-    },
-    "meta_category": {
-        "id": 292,
-        "shortname": "tech",
-        "name": "Tech",
-        "sort_name": "Tech",
-        "photo": {
-            "id": 450131949,
-            "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
-            "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
-            "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
-            "type": "event",
-            "base_url": "https://secure.meetupstatic.com"
-        },
-        "category_ids": [34]
-    }
+    "errors": [{
+        "code": "group_error",
+        "message": "Invalid group urlname CRUMUG-UK-North-West"
+    }]
 }, {
     "id": 27984331,
     "name": "Manchester MySQL Meetup",
@@ -8141,7 +8201,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 68,
+    "members": 69,
     "member_pay_fee": false,
     "organizer": {
         "id": 196296186,
@@ -8206,7 +8266,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 109,
+    "members": 115,
     "member_pay_fee": false,
     "organizer": {
         "id": 145156052,
@@ -8276,7 +8336,7 @@
     "visibility": "public",
     "lat": 53.41,
     "lon": -2.18,
-    "members": 833,
+    "members": 875,
     "member_pay_fee": false,
     "organizer": {
         "id": 136152892,
@@ -8309,6 +8369,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "268418269",
+        "name": "CodeUp Stockport FebruaryMonthly Session - hosted by CDL",
+        "yes_rsvp_count": 4,
+        "time": 1582570800000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -8333,7 +8400,7 @@
     "pro_network": {
         "name": "CodeUp",
         "urlname": "codeup",
-        "number_of_groups": 17,
+        "number_of_groups": 18,
         "network_url": "https://www.meetup.com/pro/codeup/"
     }
 }, {
@@ -8360,7 +8427,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 530,
+    "members": 552,
     "member_pay_fee": false,
     "who": "Members",
     "key_photo": {
@@ -8372,13 +8439,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "256740107",
-        "name": "PASS Manchester Data Platform User Group - CANCELLED",
-        "yes_rsvp_count": 6,
-        "time": 1575567000000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -8419,7 +8479,7 @@
     "visibility": "public",
     "lat": 53.49,
     "lon": -2.24,
-    "members": 592,
+    "members": 607,
     "member_pay_fee": false,
     "organizer": {
         "id": 257121027,
@@ -8444,13 +8504,6 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
-    "next_event": {
-        "id": "266077453",
-        "name": "Global AI Bootcamp - Manchester",
-        "yes_rsvp_count": 29,
-        "time": 1576317600000,
-        "utc_offset": 0
-    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -8566,7 +8619,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 858,
+    "members": 930,
     "member_pay_fee": false,
     "organizer": {
         "id": 250749437,
@@ -8591,6 +8644,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "268404980",
+        "name": "Global Azure Bootcamp Manchester 2020",
+        "yes_rsvp_count": 82,
+        "time": 1587805200000,
+        "utc_offset": 3600000
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -8623,7 +8683,7 @@
     "status": "active",
     "link": "https://www.meetup.com/Manchester-Web-Meetup/",
     "urlname": "Manchester-Web-Meetup",
-    "description": "<p>Manchester Web Meetup is a&nbsp;group of passionate web engineers sharing knowledge and promoting best practices. Each month we present 2-3 speakers who discuss topics covering all things web; from HTML to Accessibility.&nbsp;Manchester Web Meetup is organised by </p>\n<p><a href=\"https://www.yld.io\">YLD</a></p>\n<p>&nbsp;- a software engineering and design consultancy, helping you succeed by moving your team from a culture of delivery to a culture of learning. </p>\n<br>\n<p>We also organise other tech meetups, check out our <a href=\"https://www.yld.io/community/\">Community page</a>!</p>\n<p>____</p>\n<p>We also foster diversity, supporting a welcoming environment for everyone, regardless of race, gender, sexual orientation, or identity: <a href=\"http://confcodeofconduct.com/\" class=\"linkified\">https://confcodeofconduct.com/</a></p>",
+    "description": "<p>Manchester Web Meetup is a group for passionate web developers to share knowledge and gain technical insights. Each month we present 2-3 speakers who discuss topics covering all things web, including HTML, CSS, JS (React, Vue, Node.js etc.), APIs, and cloud technologies (AWS, Serverless etc.). Manchester Web Meetup is organised by <a href=\"https://twitter.com/jamesseanwright\">James Wright</a> and <a href=\"https://twitter.com/onthebeachjobs\">On The Beach</a>.</p> \n<p>____</p> \n<p>We also foster diversity, supporting a welcoming environment for everyone, regardless of race, gender, sexual orientation, or identity; please see our <a href=\"https://docs.google.com/document/d/1yvV1BvVBAEaUl4wxbAFlAmIaHOgNS0RSE5RRyS8mItY\">code of conduct</a> for further information on this stance and to report potential violations.</p>",
     "created": 1523872002000,
     "city": "Manchester",
     "untranslated_city": "Manchester",
@@ -8636,27 +8696,27 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 1240,
+    "members": 1323,
     "member_pay_fee": false,
     "organizer": {
-        "id": 257542221,
-        "name": "YLD",
-        "bio": "At YLD we're passionate about bringing community together and fostering culture of learning. \n\nWe support various meetups and conferences across London, NYC, Manchester, Lisbon, Berlin, and Porto covering topics from software engineering to design.",
+        "id": 28984802,
+        "name": "James W.",
+        "bio": "",
         "photo": {
-            "id": 278380177,
-            "highres_link": "https://secure.meetupstatic.com/photos/member/9/c/f/1/highres_278380177.jpeg",
-            "photo_link": "https://secure.meetupstatic.com/photos/member/9/c/f/1/member_278380177.jpeg",
-            "thumb_link": "https://secure.meetupstatic.com/photos/member/9/c/f/1/thumb_278380177.jpeg",
+            "id": 276435087,
+            "highres_link": "https://secure.meetupstatic.com/photos/member/3/a/e/f/highres_276435087.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/member/3/a/e/f/member_276435087.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/member/3/a/e/f/thumb_276435087.jpeg",
             "type": "member",
             "base_url": "https://secure.meetupstatic.com"
         }
     },
     "who": "Manc Webbers",
     "key_photo": {
-        "id": 475751780,
-        "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/0/4/highres_475751780.jpeg",
-        "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/0/4/600_475751780.jpeg",
-        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/0/4/thumb_475751780.jpeg",
+        "id": 488440777,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/9/f/4/9/highres_488440777.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/9/f/4/9/600_488440777.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/9/f/4/9/thumb_488440777.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
     },
@@ -8695,7 +8755,7 @@
 }, {
     "id": 29115988,
     "name": "Manchester Dribbble Meetup",
-    "status": "frozen",
+    "status": "active",
     "link": "https://www.meetup.com/meetup-group-XeWAIbQi/",
     "urlname": "meetup-group-XeWAIbQi",
     "description": "<p><a href=\"https://dribbble.com/\">Dribbble</a>&nbsp;<span>is the top social network globally used by designers and creative professionals to gain inspiration, feedback, education, community, and job opportunities. With the same vision of connecting people, Dribbble Meetups have spread like wildfire across the globe with events ranging from casual, five-person get-togethers to 200-person extravaganzas. Thousands of creative-types attend Dribbble Meetups each year, so we decided to host our own in Manchester.&nbsp;</span></p>",
@@ -8711,8 +8771,21 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 179,
+    "members": 180,
     "member_pay_fee": false,
+    "organizer": {
+        "id": 259064529,
+        "name": "Fabio B.",
+        "bio": "",
+        "photo": {
+            "id": 278949045,
+            "highres_link": "https://secure.meetupstatic.com/photos/member/2/3/5/5/highres_278949045.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/member/2/3/5/5/member_278949045.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/member/2/3/5/5/thumb_278949045.jpeg",
+            "type": "member",
+            "base_url": "https://secure.meetupstatic.com"
+        }
+    },
     "who": "Members",
     "key_photo": {
         "id": 472632693,
@@ -8763,7 +8836,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 353,
+    "members": 396,
     "member_pay_fee": false,
     "organizer": {
         "id": 196553271,
@@ -8788,6 +8861,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "268063140",
+        "name": "UX Maturity, from UX to XD - with Christina Connelly from Digital Bridge",
+        "yes_rsvp_count": 38,
+        "time": 1582826400000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -8828,7 +8908,7 @@
     "visibility": "public",
     "lat": 53.46,
     "lon": -2.25,
-    "members": 237,
+    "members": 241,
     "member_pay_fee": false,
     "organizer": {
         "id": 184638771,
@@ -8893,11 +8973,11 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 403,
+    "members": 433,
     "member_pay_fee": false,
     "organizer": {
         "id": 247584838,
-        "name": "Josh D.",
+        "name": "QA",
         "bio": ""
     },
     "who": "Members",
@@ -8937,7 +9017,7 @@
     "status": "active",
     "link": "https://www.meetup.com/Write-the-Docs-North/",
     "urlname": "Write-the-Docs-North",
-    "description": "<p>This is the North England meetup of <a href=\"http://www.writethedocs.org/\">Write the Docs</a>. We're all about having social meetups for technical writers, developers, testers, writers of all sorts, and anyone who is interested in learning more about documentation.&nbsp;</p>\n<p>Social meetups will usually have a suggested topic for discussion to provide some&nbsp;structure,&nbsp;and may start with a (brief, informal) presentation on the topic. If we do a workshop, it will be a collaborative learning session.&nbsp;</p>\n<p>We currently run meetups in Manchester. We have run events in Leeds and Bradford in the past. We'd love to hear from people interested in organising meetups elsewhere!</p>\n<p>We have created a North England group, rather than a city-specific group, in order to split the organisational burden. We recognise there aren't huge numbers of writers in any city in northern England, and hope that this way we can have an active group that serves a wide area.</p>\n<p>You can find our <a href=\"http://www.writethedocs.org/code-of-conduct/\">Code of Conduct at the Write the Docs website</a>.</p>",
+    "description": "<p>This is the North England meetup of <a href=\"http://www.writethedocs.org/\">Write the Docs</a>. We're all about having social meetups for technical writers, developers, testers, writers of all sorts, and anyone who is interested in learning more about documentation.&nbsp;</p>\n<p>Social meetups will usually have a suggested topic for discussion to provide some&nbsp;structure,&nbsp;and may start with a (brief, informal) presentation on the topic. If we do a workshop, it will be a collaborative learning session.&nbsp;</p>\n<p>We currently run meetups in Leeds. We have run events in Manchester and Bradford in the past. We'd love to hear from people interested in organising meetups elsewhere!</p>\n<p>We have created a North England group, rather than a city-specific group, in order to split the organisational burden. We recognise there aren't huge numbers of writers in any city in northern England, and hope that this way we can have an active group that serves a wide area.</p>\n<p>You can find our <a href=\"http://www.writethedocs.org/code-of-conduct/\">Code of Conduct at the Write the Docs website</a>.</p>",
     "created": 1501413408000,
     "city": "Leeds",
     "untranslated_city": "Leeds",
@@ -8950,7 +9030,7 @@
     "visibility": "public",
     "lat": 53.8,
     "lon": -1.56,
-    "members": 250,
+    "members": 253,
     "member_pay_fee": false,
     "organizer": {
         "id": 194383222,
@@ -8983,6 +9063,13 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "timezone": "Europe/London",
+    "next_event": {
+        "id": "267744591",
+        "name": "Book club: The Product is Docs",
+        "yes_rsvp_count": 5,
+        "time": 1581616800000,
+        "utc_offset": 0
+    },
     "category": {
         "id": 34,
         "name": "Tech",
@@ -9101,7 +9188,7 @@
     "visibility": "public_limited",
     "lat": 53.47,
     "lon": -2.23,
-    "members": 1317,
+    "members": 1412,
     "member_pay_fee": false,
     "organizer": {
         "id": 3403462,
@@ -9126,10 +9213,10 @@
         "base_url": "https://secure.meetupstatic.com"
     },
     "key_photo": {
-        "id": 484508587,
-        "highres_link": "https://secure.meetupstatic.com/photos/event/2/1/8/b/highres_484508587.jpeg",
-        "photo_link": "https://secure.meetupstatic.com/photos/event/2/1/8/b/600_484508587.jpeg",
-        "thumb_link": "https://secure.meetupstatic.com/photos/event/2/1/8/b/thumb_484508587.jpeg",
+        "id": 487787470,
+        "highres_link": "https://secure.meetupstatic.com/photos/event/b/9/6/e/highres_487787470.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/event/b/9/6/e/600_487787470.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/event/b/9/6/e/thumb_487787470.jpeg",
         "type": "event",
         "base_url": "https://secure.meetupstatic.com"
     },
@@ -9179,17 +9266,17 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 433,
+    "members": 435,
     "member_pay_fee": false,
     "organizer": {
-        "id": 202790280,
-        "name": "Tristan M.",
+        "id": 78520772,
+        "name": "Billy J.",
         "bio": "",
         "photo": {
-            "id": 255394989,
-            "highres_link": "https://secure.meetupstatic.com/photos/member/8/8/a/d/highres_255394989.jpeg",
-            "photo_link": "https://secure.meetupstatic.com/photos/member/8/8/a/d/member_255394989.jpeg",
-            "thumb_link": "https://secure.meetupstatic.com/photos/member/8/8/a/d/thumb_255394989.jpeg",
+            "id": 258324968,
+            "highres_link": "https://secure.meetupstatic.com/photos/member/6/1/8/8/highres_258324968.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/member/6/1/8/8/member_258324968.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/member/6/1/8/8/thumb_258324968.jpeg",
             "type": "member",
             "base_url": "https://secure.meetupstatic.com"
         }
@@ -9252,7 +9339,7 @@
     "visibility": "public",
     "lat": 53.46,
     "lon": -2.23,
-    "members": 707,
+    "members": 739,
     "member_pay_fee": false,
     "organizer": {
         "id": 72060332,
@@ -9286,11 +9373,11 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "265505155",
-        "name": "Digital technology in Genomics – where are we and where are we heading to?",
-        "yes_rsvp_count": 41,
-        "time": 1579800600000,
-        "utc_offset": 0
+        "id": "268422734",
+        "name": "Digital Collaborations with Industry (Pharma and Medtech)",
+        "yes_rsvp_count": 14,
+        "time": 1588264200000,
+        "utc_offset": 3600000
     },
     "category": {
         "id": 34,
@@ -9332,7 +9419,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.24,
-    "members": 1239,
+    "members": 1241,
     "member_pay_fee": false,
     "organizer": {
         "id": 47886612,
@@ -9404,7 +9491,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 371,
+    "members": 394,
     "member_pay_fee": false,
     "organizer": {
         "id": 276414293,
@@ -9430,10 +9517,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "263254043",
-        "name": "Let's talk about... Facade!",
-        "yes_rsvp_count": 22,
-        "time": 1574879400000,
+        "id": "pcdfnrybcdbqb",
+        "name": "Introduce Polymorphic Creation with Factory Method",
+        "yes_rsvp_count": 14,
+        "time": 1581532200000,
         "utc_offset": 0
     },
     "category": {
@@ -9476,7 +9563,7 @@
     "visibility": "public",
     "lat": 53.47,
     "lon": -2.28,
-    "members": 108,
+    "members": 106,
     "member_pay_fee": false,
     "organizer": {
         "id": 188673797,
@@ -9533,7 +9620,7 @@
     "visibility": "public",
     "lat": 53.48,
     "lon": -2.25,
-    "members": 363,
+    "members": 448,
     "member_pay_fee": false,
     "organizer": {
         "id": 261645783,
@@ -9551,10 +9638,10 @@
     },
     "timezone": "Europe/London",
     "next_event": {
-        "id": "266320117",
-        "name": "Behind The Buzz Word #8 - Navigating a live Kubernetes Cluster",
-        "yes_rsvp_count": 34,
-        "time": 1575568800000,
+        "id": "268352992",
+        "name": "Behind The Buzz Word #10 - Our First Birthday Bash! Hands On Lightning Talks!",
+        "yes_rsvp_count": 30,
+        "time": 1582826400000,
         "utc_offset": 0
     },
     "category": {
