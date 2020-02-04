@@ -10,7 +10,9 @@ module.exports = (groups, events, attendees) => {
                     lon: event.venue.lon,
                     locationName: event.venue.name,
                     eventName: event.name,
+                    eventLink: event.link,
                     groupName: event.group.name,
+                    groupLink: `https://www.meetup.com/${event.group.urlname}`,
                     attendees: event.yes_rsvp_count
                 });
             }
