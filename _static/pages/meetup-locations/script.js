@@ -28,7 +28,8 @@ function renderMap(events) {
     for (let i = 0; i < events.length; i++) {
         let a = events[i],
             title = `
-                <p>Name: <a href="${a.eventLink}" target="_blank">${a.eventName}</a><br/>
+                <p> ${timeConverter(a.time)}<br/>
+                    Name: <a href="${a.eventLink}" target="_blank">${a.eventName}</a><br/>
                     Group: <a href="${a.groupLink}" target="_blank">${a.groupName}</a><br/>
                     Location: ${a.locationName}<br/>
                     RSVPs: ${a.attendees}</p>
@@ -42,3 +43,13 @@ function renderMap(events) {
     
     map.addLayer(markers);
 }
+
+function timeConverter(UNIX_timestamp) {
+    var a = new Date(UNIX_timestamp);
+    var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    var year = a.getFullYear();
+    var month = months[a.getMonth()];
+    var date = a.getDate();
+    var time = date + ' ' + month + ' ' + year;
+    return time;
+  }

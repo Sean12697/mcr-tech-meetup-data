@@ -6,6 +6,7 @@ module.exports = (groups, events, attendees) => {
         if (event.venue) {
             if (event.venue.lat && event.venue.lon) {
                 locations.push({
+                    time: event.time,
                     lat: event.venue.lat,
                     lon: event.venue.lon,
                     locationName: event.venue.name,
