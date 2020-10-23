@@ -44,7 +44,7 @@ module.exports = (groups, events, attendees) => {
 
     let pages = require("./_pages.json").map(page => {
         return {
-            name: `<a href="pages/${page.link}" target="_blank">${page.name}</a>`,
+            name: `<a href="${page.link}" target="_blank">${page.name}</a>`,
             desc: `${page.desc}<br/><br/>Author: <a href="${page.aURL}" target="_blank">${page.auth}</a>`,
             slug: ``
         }
