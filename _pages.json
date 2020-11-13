@@ -1,7 +1,13 @@
 [{
-    "name": "Meetup Locations",
+    "name": "Event Pinned Locations",
     "desc": "Using LeafletJS to visualize the locations of meetup events.",
     "link": "pages/meetup-locations/index.html",
+    "auth": "Sean O'Mahoney",
+    "aURL": "https://twitter.com/Sean12697"
+}, {
+    "name": "Event Heatmap Locations",
+    "desc": "Using LeafletJS to generate a heatmap to visualize the locations of meetup events.",
+    "link": "pages/meetup-heatmap/index.html",
     "auth": "Sean O'Mahoney",
     "aURL": "https://twitter.com/Sean12697"
 }]
