@@ -1,11 +1,11 @@
-
 module.exports = (groups, events, attendees) => {
     return {
         general: {
             groupCount: groups.length,
             eventsCount: events.length,
             attendeesCount: attendees.length,
-            rsvpCount: events.reduce((total, event) => total + event.yes_rsvp_count, 0)
+            rsvpCount: events.reduce((total, event) => total + event.yes_rsvp_count, 0),
+            venues: events.filter(e => e.venue != undefined).filter(e => e.venue.name != undefined).map(e => e.venue.name).filter(onlyUnique).length
         },
         years: getYearsArray(events).map(year => {
             return {
