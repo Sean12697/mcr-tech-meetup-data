@@ -1,21 +1,28 @@
 window.addEventListener("load",() => {
-    $.getJSON("../../data/venueUsage.json", renderChart);
+  $.getJSON("../../data/venueUsage.json", renderChart);
 });
 
 function renderChart(venueUsage) {
-  google.charts.load('current', {'packages':['corechart']});
-  google.charts.setOnLoadCallback(drawChart);
+let queryString = window.location.search, urlParams = new URLSearchParams(queryString), count = urlParams.get('venues');
 
-  function drawChart() {
-    var data = google.visualization.arrayToDataTable(venueUsage);
+if (count != null) {
+  let filterTo = parseInt(count);
+  venueUsage = venueUsage.map(month => month.slice(0, filterTo + 1));
+}
 
-    var options = {
-      title: 'Venue Attendees / Month',
-      curveType: 'function'
-    };
+google.charts.load('current', {'packages':['corechart']});
+google.charts.setOnLoadCallback(drawChart);
 
-    var chart = new google.visualization.LineChart(document.getElementById('chart'));
+function drawChart() {
+  var data = google.visualization.arrayToDataTable(venueUsage);
 
-    chart.draw(data, options);
-  }
+  var options = {
+    title: 'Venue Attendees / Month',
+    curveType: 'function'
+  };
+
+  var chart = new google.visualization.LineChart(document.getElementById('chart'));
+
+  chart.draw(data, options);
+}
 }
