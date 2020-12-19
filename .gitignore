@@ -106,3 +106,4 @@ dist
 # Site
 _site/
 .vscode/settings.json
+venueDump.json
