@@ -11,7 +11,8 @@ let pseudonyms = {
     "BBC Quay House": "BBC Media City",
     "Morecambe & Wise Room, Bridge House, BBC": "BBC Media City",
     "BBC Mediacity": "BBC Media City",
-    "On the 7th Bar, Media City": "Social 7"
+    "On the 7th Bar, Media City": "Social 7",
+    "Auto Trader": "AutoTrader"
 };
 
 function pseudonymMapper(name) {
@@ -19,7 +20,23 @@ function pseudonymMapper(name) {
 }
 
 function getVenuesArray(events) {
-    return events.map(event => pseudonymMapper(event.venue.name)).filter(onlyUnique);
+    let venuesCount = [];
+
+    // Create name/count pair of unique venues
+    events.forEach(event => {
+        let venueName = pseudonymMapper(event.venue.name), index = venuesCount.findIndex(v => v.name == venueName);
+        if (index == -1) {
+            venuesCount.push({
+                name: venueName,
+                count: event.yes_rsvp_count
+            });
+        } else {
+            venuesCount[index].count += event.yes_rsvp_count
+        }
+    });
+
+    // Process venues into a sorted flat array of strings
+    return venuesCount.sort((a,b) => b.count - a.count).map(v => v.name);
 }
 
 function onlyUnique(value, index, self) {

@@ -11,7 +11,7 @@ function renderChart(venueUsage) {
 
     var options = {
       title: 'Venue Attendees / Month',
-      // curveType: 'function'
+      curveType: 'function'
     };
 
     var chart = new google.visualization.LineChart(document.getElementById('chart'));
