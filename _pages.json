@@ -16,4 +16,10 @@
     "link": "pages/yearly-stats-combo-chart/index.html",
     "auth": "Sean O'Mahoney",
     "aURL": "https://twitter.com/Sean12697"
+}, {
+    "name": "Venue Usage Graph",
+    "desc": "Graphing the amount of RSVPs ever venue has in a particular month.",
+    "link": "pages/venue-usage/index.html",
+    "auth": "Sean O'Mahoney",
+    "aURL": "https://twitter.com/Sean12697"
 }]
